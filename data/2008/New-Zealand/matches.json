@@ -1,0 +1,5943 @@
+[
+  {
+    "_uid": 13979,
+    "id": 13979,
+    "objectId": 300430,
+    "scribeId": 300430,
+    "slug": "new-zealand-vs-bangladesh-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-01-12T00:00:00.000Z",
+    "endDate": "2008-01-14T00:00:00.000Z",
+    "startTime": "2008-01-11T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by an innings and 137 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 3304,
+      "objectId": 300412,
+      "scribeId": 14143,
+      "slug": "bangladesh-tour-of-new-zealand-2007-08",
+      "name": "Bangladesh tour of New Zealand",
+      "longName": "Bangladesh tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2007,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 116,
+      "objectId": 58895,
+      "name": "Basin Reserve",
+      "longName": "Basin Reserve, Wellington",
+      "location": "",
+      "town": {
+        "id": 851,
+        "name": "Wellington",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "143 & 113",
+        "scoreInfo": "47 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "393",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 113434,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13978,
+    "id": 13978,
+    "objectId": 300429,
+    "scribeId": 300429,
+    "slug": "new-zealand-vs-bangladesh-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-01-04T00:00:00.000Z",
+    "endDate": "2008-01-06T00:00:00.000Z",
+    "startTime": "2008-01-03T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 9 wickets",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3304,
+      "objectId": 300412,
+      "scribeId": 14143,
+      "slug": "bangladesh-tour-of-new-zealand-2007-08",
+      "name": "Bangladesh tour of New Zealand",
+      "longName": "Bangladesh tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2007,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 769,
+      "objectId": 58827,
+      "name": "University Oval",
+      "longName": "University Oval, Dunedin",
+      "location": "",
+      "town": {
+        "id": 825,
+        "name": "Dunedin",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "137 & 254",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "357 & 39/1",
+        "scoreInfo": "8.1 ov, target 35",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 113210,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13990,
+    "id": 13990,
+    "objectId": 300441,
+    "scribeId": 300441,
+    "slug": "new-zealand-vs-england-5th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th ODI",
+    "floodlit": "daynight",
+    "startDate": "2008-02-23T00:00:00.000Z",
+    "endDate": "2008-02-23T00:00:00.000Z",
+    "startTime": "2008-02-23T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 34 runs (D/L method)",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 152,
+      "objectId": 58812,
+      "name": "AMI Stadium",
+      "longName": "AMI Stadium, Christchurch",
+      "location": "",
+      "town": {
+        "id": 824,
+        "name": "Christchurch",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "242/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "213/6",
+        "scoreInfo": "37/37 ov, target 180",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13989,
+    "id": 13989,
+    "objectId": 300440,
+    "scribeId": 300440,
+    "slug": "new-zealand-vs-england-4th-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "day",
+    "startDate": "2008-02-20T00:00:00.000Z",
+    "endDate": "2008-02-20T00:00:00.000Z",
+    "startTime": "2008-02-19T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match tied",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 3,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 453,
+      "objectId": 58857,
+      "name": "McLean Park",
+      "longName": "McLean Park, Napier",
+      "location": "",
+      "town": {
+        "id": 836,
+        "name": "Napier",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "340/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "340/7",
+        "scoreInfo": "50 ov, target 341",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 114516,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13988,
+    "id": 13988,
+    "objectId": 300439,
+    "scribeId": 300439,
+    "slug": "new-zealand-vs-england-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2008-02-15T00:00:00.000Z",
+    "endDate": "2008-02-15T00:00:00.000Z",
+    "startTime": "2008-02-15T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 6 wickets (with 18 balls remaining) (D/L method)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "234/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "229/4",
+        "scoreInfo": "44/47 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 114350,
+    "reportStoryId": 114365,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13987,
+    "id": 13987,
+    "objectId": 300438,
+    "scribeId": 300438,
+    "slug": "new-zealand-vs-england-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2008-02-12T00:00:00.000Z",
+    "endDate": "2008-02-12T00:00:00.000Z",
+    "startTime": "2008-02-12T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 10 wickets (with 107 balls remaining) (D/L method)",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 504,
+      "objectId": 58831,
+      "name": "Seddon Park",
+      "longName": "Seddon Park, Hamilton",
+      "location": "",
+      "town": {
+        "id": 827,
+        "name": "Hamilton",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "158",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "165/0",
+        "scoreInfo": "18.1/36 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 114263,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13986,
+    "id": 13986,
+    "objectId": 300437,
+    "scribeId": 300437,
+    "slug": "new-zealand-vs-england-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2008-02-09T00:00:00.000Z",
+    "endDate": "2008-02-09T00:00:00.000Z",
+    "startTime": "2008-02-09T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 6 wickets (with 120 balls remaining)",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1166,
+      "objectId": 58899,
+      "name": "Westpac Stadium",
+      "longName": "Westpac Stadium, Wellington",
+      "location": "",
+      "town": {
+        "id": 851,
+        "name": "Wellington",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "130",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "131/4",
+        "scoreInfo": "30/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 114147,
+    "reportStoryId": 114187,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13985,
+    "id": 13985,
+    "objectId": 300436,
+    "scribeId": 300436,
+    "slug": "new-zealand-vs-england-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2008-02-07T00:00:00.000Z",
+    "endDate": "2008-02-07T00:00:00.000Z",
+    "startTime": "2008-02-07T06:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 50 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 152,
+      "objectId": 58812,
+      "name": "AMI Stadium",
+      "longName": "AMI Stadium, Christchurch",
+      "location": "",
+      "town": {
+        "id": 824,
+        "name": "Christchurch",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "193/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "143/8",
+        "scoreInfo": "20 ov, target 194",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": null,
+    "reportStoryId": 114142,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13984,
+    "id": 13984,
+    "objectId": 300435,
+    "scribeId": 300435,
+    "slug": "new-zealand-vs-england-1st-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "night",
+    "startDate": "2008-02-05T00:00:00.000Z",
+    "endDate": "2008-02-05T00:00:00.000Z",
+    "startTime": "2008-02-05T06:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 32 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "184/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "152",
+        "scoreInfo": "19.2/20 ov, target 185",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 114064,
+    "reportStoryId": 114080,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13993,
+    "id": 13993,
+    "objectId": 300444,
+    "scribeId": 300444,
+    "slug": "new-zealand-vs-england-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2008-03-22T00:00:00.000Z",
+    "endDate": "2008-03-26T00:00:00.000Z",
+    "startTime": "2008-03-21T21:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 121 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 453,
+      "objectId": 58857,
+      "name": "McLean Park",
+      "longName": "McLean Park, Napier",
+      "location": "",
+      "town": {
+        "id": 836,
+        "name": "Napier",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "253 & 467/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "168 & 431",
+        "scoreInfo": "118.5 ov, target 553",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 115411,
+    "reportStoryId": 115574,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13992,
+    "id": 13992,
+    "objectId": 300443,
+    "scribeId": 300443,
+    "slug": "new-zealand-vs-england-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-03-13T00:00:00.000Z",
+    "endDate": "2008-03-17T00:00:00.000Z",
+    "startTime": "2008-03-12T21:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 126 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 116,
+      "objectId": 58895,
+      "name": "Basin Reserve",
+      "longName": "Basin Reserve, Wellington",
+      "location": "",
+      "town": {
+        "id": 851,
+        "name": "Wellington",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "342 & 293",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "198 & 311",
+        "scoreInfo": "100.3 ov, target 438",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 115154,
+    "reportStoryId": 115304,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13991,
+    "id": 13991,
+    "objectId": 300442,
+    "scribeId": 300442,
+    "slug": "new-zealand-vs-england-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-03-05T00:00:00.000Z",
+    "endDate": "2008-03-09T00:00:00.000Z",
+    "startTime": "2008-03-04T21:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 189 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3305,
+      "objectId": 300413,
+      "scribeId": 14118,
+      "slug": "england-tour-of-new-zealand-2007-08",
+      "name": "England tour of New Zealand",
+      "longName": "England tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 504,
+      "objectId": 58831,
+      "name": "Seddon Park",
+      "longName": "Seddon Park, Hamilton",
+      "location": "",
+      "town": {
+        "id": 827,
+        "name": "Hamilton",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "470 & 177/9d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "348 & 110",
+        "scoreInfo": "55 ov, target 300",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 114910,
+    "reportStoryId": 115028,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16166,
+    "id": 16166,
+    "objectId": 320218,
+    "scribeId": 320218,
+    "slug": "kent-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-04-28T00:00:00.000Z",
+    "endDate": "2008-04-30T00:00:00.000Z",
+    "startTime": "2008-04-28T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1149,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 47,
+      "objectId": 56869,
+      "name": "St Lawrence Ground",
+      "longName": "St Lawrence Ground, Canterbury",
+      "location": "",
+      "town": {
+        "id": 125,
+        "name": "Canterbury",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1149,
+          "objectId": 1098,
+          "scribeId": 1098,
+          "slug": "kent",
+          "name": "Kent",
+          "longName": "Kent",
+          "abbreviation": "Kent",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313268.logo.png",
+            "caption": "Kent logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "324/1d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "92/1",
+        "scoreInfo": "38.2 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 116558,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16238,
+    "id": 16238,
+    "objectId": 321644,
+    "scribeId": 321644,
+    "slug": "marylebone-cricket-club-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 11,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-04-27T00:00:00.000Z",
+    "endDate": "2008-04-27T00:00:00.000Z",
+    "startTime": "2008-04-27T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1217,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 953,
+      "objectId": 56747,
+      "name": "Arundel Castle",
+      "longName": "Arundel Castle Cricket Club Ground",
+      "location": "",
+      "town": {
+        "id": 83,
+        "name": "Arundel",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "239/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1217,
+          "objectId": 1166,
+          "scribeId": 1166,
+          "slug": "marylebone-cricket-club",
+          "name": "M.C.C.",
+          "longName": "Marylebone Cricket Club",
+          "abbreviation": "MCC",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "44/2",
+        "scoreInfo": "9 ov, target 246",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 116497,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16163,
+    "id": 16163,
+    "objectId": 320215,
+    "scribeId": 320215,
+    "slug": "northamptonshire-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-05-30T00:00:00.000Z",
+    "endDate": "2008-06-01T00:00:00.000Z",
+    "startTime": "2008-05-30T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1272,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 232,
+      "objectId": 57207,
+      "name": "County Ground",
+      "longName": "County Ground, Northampton",
+      "location": "Wantage Road",
+      "town": {
+        "id": 252,
+        "name": "Northampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "363 & 317/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1272,
+          "objectId": 1221,
+          "scribeId": 1221,
+          "slug": "northamptonshire",
+          "name": "Northants",
+          "longName": "Northamptonshire",
+          "abbreviation": "Nthnt",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313274.logo.png",
+            "caption": "Northamptonshire logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "214/9d & 85/2",
+        "scoreInfo": "20 ov, target 467",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 117470,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13586,
+    "id": 13586,
+    "objectId": 296901,
+    "scribeId": 296901,
+    "slug": "england-vs-new-zealand-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-05-23T00:00:00.000Z",
+    "endDate": "2008-05-26T00:00:00.000Z",
+    "startTime": "2008-05-23T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 6 wickets",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "381 & 114",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "202 & 294/4",
+        "scoreInfo": "88 ov, target 294",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 117205,
+    "reportStoryId": 117300,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13585,
+    "id": 13585,
+    "objectId": 296900,
+    "scribeId": 296900,
+    "slug": "england-vs-new-zealand-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-05-15T00:00:00.000Z",
+    "endDate": "2008-05-19T00:00:00.000Z",
+    "startTime": "2008-05-15T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "277 & 269/6",
+        "scoreInfo": "86.2 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "319",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 116970,
+    "reportStoryId": 117123,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16165,
+    "id": 16165,
+    "objectId": 320217,
+    "scribeId": 320217,
+    "slug": "england-lions-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-05-08T00:00:00.000Z",
+    "endDate": "2008-05-11T00:00:00.000Z",
+    "startTime": "2008-05-08T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1003,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1003,
+          "objectId": 952,
+          "scribeId": 952,
+          "slug": "england-lions",
+          "name": "Eng Lions",
+          "longName": "England Lions",
+          "abbreviation": "LIONS",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313257.logo.png",
+            "caption": "England Lions (England A) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "280 & 360/8d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "273 & 201/4",
+        "scoreInfo": "60 ov, target 368",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 116795,
+    "reportStoryId": 116852,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16164,
+    "id": 16164,
+    "objectId": 320216,
+    "scribeId": 320216,
+    "slug": "essex-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-05-02T00:00:00.000Z",
+    "endDate": "2008-05-05T00:00:00.000Z",
+    "startTime": "2008-05-02T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "N Zealanders won by 92 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 1035,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 318,
+      "objectId": 56887,
+      "name": "County Ground",
+      "longName": "County Ground, Chelmsford",
+      "location": "New Writtle Street",
+      "town": {
+        "id": 131,
+        "name": "Chelmsford",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "355 & 195",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1035,
+          "objectId": 984,
+          "scribeId": 984,
+          "slug": "essex",
+          "name": "Essex",
+          "longName": "Essex",
+          "abbreviation": "Essex",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313263.logo.png",
+            "caption": "Essex logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "258 & 200",
+        "scoreInfo": "70.1 ov, target 293",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 116743,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13593,
+    "id": 13593,
+    "objectId": 296908,
+    "scribeId": 296908,
+    "slug": "england-vs-new-zealand-5th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th ODI",
+    "floodlit": "day",
+    "startDate": "2008-06-28T00:00:00.000Z",
+    "endDate": "2008-06-28T00:00:00.000Z",
+    "startTime": "2008-06-28T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 51 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "266/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "215",
+        "scoreInfo": "47.5/50 ov, target 267",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 118133,
+    "reportStoryId": 118172,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13592,
+    "id": 13592,
+    "objectId": 296907,
+    "scribeId": 296907,
+    "slug": "england-vs-new-zealand-4th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "day",
+    "startDate": "2008-06-25T00:00:00.000Z",
+    "endDate": "2008-06-25T00:00:00.000Z",
+    "startTime": "2008-06-25T10:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 1 wicket",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "245",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "246/9",
+        "scoreInfo": "50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 118047,
+    "reportStoryId": 118075,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13591,
+    "id": 13591,
+    "objectId": 296906,
+    "scribeId": 296906,
+    "slug": "england-vs-new-zealand-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2008-06-21T00:00:00.000Z",
+    "endDate": "2008-06-21T00:00:00.000Z",
+    "startTime": "2008-06-21T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 22 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 176,
+      "objectId": 56831,
+      "name": "County Ground",
+      "longName": "County Ground, Bristol",
+      "location": "Bishopston",
+      "town": {
+        "id": 116,
+        "name": "Bristol",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "182",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "160",
+        "scoreInfo": "46.2/50 ov, target 183",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 117953,
+    "reportStoryId": 117977,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13590,
+    "id": 13590,
+    "objectId": 296905,
+    "scribeId": 296905,
+    "slug": "england-vs-new-zealand-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "day",
+    "startDate": "2008-06-18T00:00:00.000Z",
+    "endDate": "2008-06-18T00:00:00.000Z",
+    "startTime": "2008-06-18T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 164,
+      "objectId": 56788,
+      "name": "Edgbaston",
+      "longName": "Edgbaston, Birmingham",
+      "location": "",
+      "town": {
+        "id": 100,
+        "name": "Birmingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "162",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "127/2",
+        "scoreInfo": "19/23 ov, target 160",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 117896,
+    "reportStoryId": 117906,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13589,
+    "id": 13589,
+    "objectId": 296904,
+    "scribeId": 296904,
+    "slug": "england-vs-new-zealand-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "day",
+    "startDate": "2008-06-15T00:00:00.000Z",
+    "endDate": "2008-06-15T00:00:00.000Z",
+    "startTime": "2008-06-15T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 114 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1039,
+      "objectId": 56901,
+      "name": "Riverside Ground",
+      "longName": "Riverside Ground, Chester-le-Street",
+      "location": "",
+      "town": {
+        "id": 134,
+        "name": "Chester-le-Street",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "307/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "193",
+        "scoreInfo": "42.5/50 ov, target 308",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 117822,
+    "reportStoryId": 117838,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13588,
+    "id": 13588,
+    "objectId": 296903,
+    "scribeId": 296903,
+    "slug": "england-vs-new-zealand-only-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "Only T20I",
+    "floodlit": "day",
+    "startDate": "2008-06-13T00:00:00.000Z",
+    "endDate": "2008-06-13T00:00:00.000Z",
+    "startTime": "2008-06-13T16:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 9 wickets (with 15 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "123/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "127/1",
+        "scoreInfo": "17.3/20 ov, target 124",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 117790,
+    "reportStoryId": 117803,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16167,
+    "id": 16167,
+    "objectId": 320219,
+    "scribeId": 320219,
+    "slug": "worcestershire-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 5,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-06-11T00:00:00.000Z",
+    "endDate": "2008-06-11T00:00:00.000Z",
+    "startTime": "2008-06-11T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "N Zealanders won by 95 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 216,
+      "objectId": 57424,
+      "name": "New Road",
+      "longName": "County Ground, New Road, Worcester",
+      "location": "New Road",
+      "town": {
+        "id": 333,
+        "name": "Worcester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "358/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1509,
+          "objectId": 1458,
+          "scribeId": 1458,
+          "slug": "worcestershire",
+          "name": "Worcs",
+          "longName": "Worcestershire",
+          "abbreviation": "Worcs",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313280.logo.png",
+            "caption": "Worcestershire logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "263",
+        "scoreInfo": "48/50 ov, target 359",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 117751,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 13587,
+    "id": 13587,
+    "objectId": 296902,
+    "scribeId": 296902,
+    "slug": "england-vs-new-zealand-3rd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2008-06-05T00:00:00.000Z",
+    "endDate": "2008-06-08T00:00:00.000Z",
+    "startTime": "2008-06-05T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by an innings and 9 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 3239,
+      "objectId": 296889,
+      "scribeId": 14016,
+      "slug": "new-zealand-tour-of-england-and-scotland-2008",
+      "name": "New Zealand tour of England and Scotland",
+      "longName": "New Zealand tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 34,
+      "objectId": 57219,
+      "name": "Trent Bridge",
+      "longName": "Trent Bridge, Nottingham",
+      "location": "",
+      "town": {
+        "id": 254,
+        "name": "Nottingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "364",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "(f/o) 123 & 232",
+        "scoreInfo": "72.3 ov",
+        "inningNumbers": [
+          2,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 117566,
+    "reportStoryId": 117655,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16694,
+    "id": 16694,
+    "objectId": 325555,
+    "scribeId": 325555,
+    "slug": "scotland-vs-new-zealand-3rd-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd Match",
+    "floodlit": "day",
+    "startDate": "2008-07-03T00:00:00.000Z",
+    "endDate": "2008-07-03T00:00:00.000Z",
+    "startTime": "2008-07-03T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 8 wickets (with 212 balls remaining)",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3749,
+      "objectId": 325539,
+      "scribeId": 8599,
+      "slug": "associates-tri-series-in-scotland-2008",
+      "name": "Associates Tri-Series (in Scotland)",
+      "longName": "Associates Tri-Series (in Scotland)",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 355,
+      "objectId": 59255,
+      "name": "Mannofield Park",
+      "longName": "Mannofield Park, Aberdeen",
+      "location": "",
+      "town": {
+        "id": 942,
+        "name": "Aberdeen",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 30,
+        "name": "Scotland"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 30,
+          "objectId": 30,
+          "scribeId": 30,
+          "slug": "scotland-xi",
+          "name": "Scotland",
+          "longName": "Scotland",
+          "abbreviation": "SCOT",
+          "isCountry": true,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313150.logo.png",
+            "caption": "Scotland logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "101",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "102/2",
+        "scoreInfo": "14.4/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 118305,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 16693,
+    "id": 16693,
+    "objectId": 325554,
+    "scribeId": 325554,
+    "slug": "ireland-vs-new-zealand-1st-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st Match",
+    "floodlit": "day",
+    "startDate": "2008-07-01T00:00:00.000Z",
+    "endDate": "2008-07-01T00:00:00.000Z",
+    "startTime": "2008-07-01T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 290 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 29,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 3749,
+      "objectId": 325539,
+      "scribeId": 8599,
+      "slug": "associates-tri-series-in-scotland-2008",
+      "name": "Associates Tri-Series (in Scotland)",
+      "longName": "Associates Tri-Series (in Scotland)",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 355,
+      "objectId": 59255,
+      "name": "Mannofield Park",
+      "longName": "Mannofield Park, Aberdeen",
+      "location": "",
+      "town": {
+        "id": 942,
+        "name": "Aberdeen",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 30,
+        "name": "Scotland"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "402/2",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 29,
+          "objectId": 29,
+          "scribeId": 29,
+          "slug": "ireland",
+          "name": "Ireland",
+          "longName": "Ireland",
+          "abbreviation": "IRE",
+          "isCountry": true,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313149.logo.png",
+            "caption": "Ireland logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "112",
+        "scoreInfo": "28.4/50 ov, target 403",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 118235,
+    "reportStoryId": 118253,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 23036,
+    "id": 23036,
+    "objectId": 373819,
+    "scribeId": 373819,
+    "slug": "new-zealand-vs-sri-lanka-group-b",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "Group B",
+    "floodlit": "daynight",
+    "startDate": "2008-09-19T00:00:00.000Z",
+    "endDate": "2008-09-19T00:00:00.000Z",
+    "startTime": "2008-09-19T09:15:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": true,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": null,
+    "liveInning": null,
+    "series": {
+      "id": 4181,
+      "objectId": 340464,
+      "scribeId": 8081,
+      "slug": "icc-champions-trophy-2008-09",
+      "name": "ICC Champions Trophy",
+      "longName": "ICC Champions Trophy",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 545,
+      "objectId": 58967,
+      "name": "Gaddafi Stadium",
+      "longName": "Gaddafi Stadium, Lahore",
+      "location": "",
+      "town": {
+        "id": 868,
+        "name": "Lahore",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 23034,
+    "id": 23034,
+    "objectId": 373817,
+    "scribeId": 373817,
+    "slug": "england-vs-new-zealand-group-b",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "Group B",
+    "floodlit": "daynight",
+    "startDate": "2008-09-17T00:00:00.000Z",
+    "endDate": "2008-09-17T00:00:00.000Z",
+    "startTime": "2008-09-17T09:15:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": true,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": null,
+    "liveInning": null,
+    "series": {
+      "id": 4181,
+      "objectId": 340464,
+      "scribeId": 8081,
+      "slug": "icc-champions-trophy-2008-09",
+      "name": "ICC Champions Trophy",
+      "longName": "ICC Champions Trophy",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 545,
+      "objectId": 58967,
+      "name": "Gaddafi Stadium",
+      "longName": "Gaddafi Stadium, Lahore",
+      "location": "",
+      "town": {
+        "id": 868,
+        "name": "Lahore",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 23031,
+    "id": 23031,
+    "objectId": 373814,
+    "scribeId": 373814,
+    "slug": "south-africa-vs-new-zealand-group-b",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "Group B",
+    "floodlit": "daynight",
+    "startDate": "2008-09-14T00:00:00.000Z",
+    "endDate": "2008-09-14T00:00:00.000Z",
+    "startTime": "2008-09-14T09:45:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": true,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": null,
+    "liveInning": null,
+    "series": {
+      "id": 4181,
+      "objectId": 340464,
+      "scribeId": 8081,
+      "slug": "icc-champions-trophy-2008-09",
+      "name": "ICC Champions Trophy",
+      "longName": "ICC Champions Trophy",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 487,
+      "objectId": 58956,
+      "name": "National Stadium",
+      "longName": "National Stadium, Karachi",
+      "location": "",
+      "town": {
+        "id": 867,
+        "name": "Karachi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20904,
+    "id": 20904,
+    "objectId": 361759,
+    "scribeId": 361759,
+    "slug": "bangladesh-vs-new-zealand-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-10-25T00:00:00.000Z",
+    "endDate": "2008-10-29T00:00:00.000Z",
+    "startTime": "2008-10-25T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 25,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2025,
+      "objectId": 236761,
+      "name": "Shere Bangla National Stadium",
+      "longName": "Shere Bangla National Stadium, Mirpur, Dhaka",
+      "location": "Mirpur",
+      "town": {
+        "id": 58,
+        "name": "Dhaka",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "262/6d & 79/1d",
+        "scoreInfo": "31 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "169/9d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 121352,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20903,
+    "id": 20903,
+    "objectId": 361758,
+    "scribeId": 361758,
+    "slug": "bangladesh-vs-new-zealand-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-10-17T00:00:00.000Z",
+    "endDate": "2008-10-21T00:00:00.000Z",
+    "startTime": "2008-10-17T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 3 wickets",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 25,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1931,
+      "objectId": 56658,
+      "name": "Zahur Ahmed Chowdhury Stadium",
+      "longName": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+      "location": "",
+      "town": {
+        "id": 57,
+        "name": "Chattogram",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "245 & 242",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "171 & 317/7",
+        "scoreInfo": "137.5 ov, target 317",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 120955,
+    "reportStoryId": 121034,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20902,
+    "id": 20902,
+    "objectId": 361757,
+    "scribeId": 361757,
+    "slug": "bangladesh-vs-new-zealand-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2008-10-14T00:00:00.000Z",
+    "endDate": "2008-10-14T00:00:00.000Z",
+    "startTime": "2008-10-14T03:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 79 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1931,
+      "objectId": 56658,
+      "name": "Zahur Ahmed Chowdhury Stadium",
+      "longName": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+      "location": "",
+      "town": {
+        "id": 57,
+        "name": "Chattogram",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "249/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "170/8",
+        "scoreInfo": "50 ov, target 250",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 120870,
+    "reportStoryId": 120876,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20901,
+    "id": 20901,
+    "objectId": 361756,
+    "scribeId": 361756,
+    "slug": "bangladesh-vs-new-zealand-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "day",
+    "startDate": "2008-10-11T00:00:00.000Z",
+    "endDate": "2008-10-11T00:00:00.000Z",
+    "startTime": "2008-10-11T03:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 75 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 25,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2025,
+      "objectId": 236761,
+      "name": "Shere Bangla National Stadium",
+      "longName": "Shere Bangla National Stadium, Mirpur, Dhaka",
+      "location": "Mirpur",
+      "town": {
+        "id": 58,
+        "name": "Dhaka",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "212/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "137",
+        "scoreInfo": "42.4/50 ov, target 213",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 120789,
+    "reportStoryId": 120800,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20900,
+    "id": 20900,
+    "objectId": 361755,
+    "scribeId": 361755,
+    "slug": "bangladesh-vs-new-zealand-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "day",
+    "startDate": "2008-10-09T00:00:00.000Z",
+    "endDate": "2008-10-09T00:00:00.000Z",
+    "startTime": "2008-10-09T03:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Bangladesh won by 7 wickets (with 27 balls remaining)",
+    "winnerTeamId": 25,
+    "tossWinnerTeamId": 25,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2025,
+      "objectId": 236761,
+      "name": "Shere Bangla National Stadium",
+      "longName": "Shere Bangla National Stadium, Mirpur, Dhaka",
+      "location": "Mirpur",
+      "town": {
+        "id": 58,
+        "name": "Dhaka",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "201/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "202/3",
+        "scoreInfo": "45.3/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 120727,
+    "reportStoryId": 120738,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 20899,
+    "id": 20899,
+    "objectId": 361754,
+    "scribeId": 361754,
+    "slug": "bangladesh-cricket-board-xi-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-10-07T00:00:00.000Z",
+    "endDate": "2008-10-07T00:00:00.000Z",
+    "startTime": "2008-10-07T03:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "ABANDONED",
+    "statusText": "Match abandoned without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 6,
+    "liveInning": null,
+    "series": {
+      "id": 4492,
+      "objectId": 361750,
+      "scribeId": 13861,
+      "slug": "new-zealand-tour-of-bangladesh-2008-09",
+      "name": "New Zealand tour of Bangladesh",
+      "longName": "New Zealand tour of Bangladesh",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1844,
+      "objectId": 56667,
+      "name": "Khan Shaheb Osman Ali Stadium",
+      "longName": "Khan Shaheb Osman Ali Stadium, Fatullah",
+      "location": "",
+      "town": {
+        "id": 1069,
+        "name": "Fatullah",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 717,
+          "objectId": 666,
+          "scribeId": 666,
+          "slug": "bangladesh-cricket-board-xi",
+          "name": "BCB XI",
+          "longName": "Bangladesh Cricket Board XI",
+          "abbreviation": "BCBXI",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313242.logo.png",
+            "caption": "Bangladesh Cricket Board XI logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 18361,
+    "id": 18361,
+    "objectId": 351680,
+    "scribeId": 351680,
+    "slug": "australia-vs-new-zealand-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-11-28T00:00:00.000Z",
+    "endDate": "2008-12-01T00:00:00.000Z",
+    "startTime": "2008-11-28T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 62 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 4318,
+      "objectId": 351616,
+      "scribeId": 13817,
+      "slug": "new-zealand-tour-of-australia-2008-09",
+      "name": "New Zealand tour of Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "270 & 203",
+        "scoreInfo": "74.1 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "535",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 122343,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 18360,
+    "id": 18360,
+    "objectId": 351679,
+    "scribeId": 351679,
+    "slug": "australia-vs-new-zealand-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-11-20T00:00:00.000Z",
+    "endDate": "2008-11-23T00:00:00.000Z",
+    "startTime": "2008-11-20T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 149 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 4318,
+      "objectId": 351616,
+      "scribeId": 13817,
+      "slug": "new-zealand-tour-of-australia-2008-09",
+      "name": "New Zealand tour of Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "214 & 268",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "156 & 177",
+        "scoreInfo": "54.3 ov, target 327",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 122127,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 18357,
+    "id": 18357,
+    "objectId": 351676,
+    "scribeId": 351676,
+    "slug": "new-south-wales-vs-new-zealanders-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2008-11-13T00:00:00.000Z",
+    "endDate": "2008-11-16T00:00:00.000Z",
+    "startTime": "2008-11-13T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "NSW won by 6 wickets",
+    "winnerTeamId": 438,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 4318,
+      "objectId": 351616,
+      "scribeId": 13817,
+      "slug": "new-zealand-tour-of-australia-2008-09",
+      "name": "New Zealand tour of Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "N Zealanders",
+          "longName": "New Zealanders",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "266 & 256",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 438,
+          "objectId": 387,
+          "scribeId": 387,
+          "slug": "new-south-wales",
+          "name": "NSW",
+          "longName": "New South Wales",
+          "abbreviation": "NSW",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313227.logo.png",
+            "caption": "New South Wales logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "361 & 162/4",
+        "scoreInfo": "52.2 ov, target 162",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 121921,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 21083,
+    "id": 21083,
+    "objectId": 366709,
+    "scribeId": 366709,
+    "slug": "new-zealand-vs-west-indies-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "day",
+    "startDate": "2008-12-31T00:00:00.000Z",
+    "endDate": "2008-12-31T00:00:00.000Z",
+    "startTime": "2008-12-30T23:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 1,
+    "series": {
+      "id": 4549,
+      "objectId": 366700,
+      "scribeId": 13805,
+      "slug": "west-indies-tour-of-new-zealand-2008-09",
+      "name": "West Indies tour of New Zealand",
+      "longName": "West Indies tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1653,
+      "objectId": 58919,
+      "name": "John Davies Oval",
+      "longName": "John Davies Oval, Queenstown",
+      "location": "",
+      "town": {
+        "id": 861,
+        "name": "Queenstown",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "129/5",
+        "scoreInfo": "35.4/50 ov",
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 123109,
+    "reportStoryId": 123126,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 21082,
+    "id": 21082,
+    "objectId": 366708,
+    "scribeId": 366708,
+    "slug": "new-zealand-vs-west-indies-2nd-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "daynight",
+    "startDate": "2008-12-28T00:00:00.000Z",
+    "endDate": "2008-12-28T00:00:00.000Z",
+    "startTime": "2008-12-28T04:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 36 runs",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 4549,
+      "objectId": 366700,
+      "scribeId": 13805,
+      "slug": "west-indies-tour-of-new-zealand-2008-09",
+      "name": "West Indies tour of New Zealand",
+      "longName": "West Indies tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 504,
+      "objectId": 58831,
+      "name": "Seddon Park",
+      "longName": "Seddon Park, Hamilton",
+      "location": "",
+      "town": {
+        "id": 827,
+        "name": "Hamilton",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "191/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "155/7",
+        "scoreInfo": "20 ov, target 192",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 123051,
+    "reportStoryId": 123061,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 21081,
+    "id": 21081,
+    "objectId": 366707,
+    "scribeId": 366707,
+    "slug": "new-zealand-vs-west-indies-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "daynight",
+    "startDate": "2008-12-26T00:00:00.000Z",
+    "endDate": "2008-12-26T00:00:00.000Z",
+    "startTime": "2008-12-26T04:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match tied (West Indies won the one-over eliminator)",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 3,
+    "liveInning": 2,
+    "series": {
+      "id": 4549,
+      "objectId": 366700,
+      "scribeId": 13805,
+      "slug": "west-indies-tour-of-new-zealand-2008-09",
+      "name": "West Indies tour of New Zealand",
+      "longName": "West Indies tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "155/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "155/8",
+        "scoreInfo": "20 ov, target 156",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 123009,
+    "reportStoryId": 123025,
+    "drawOdds": null,
+    "isSuperOver": true
+  },
+  {
+    "_uid": 21080,
+    "id": 21080,
+    "objectId": 366706,
+    "scribeId": 366706,
+    "slug": "new-zealand-vs-west-indies-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2008-12-19T00:00:00.000Z",
+    "endDate": "2008-12-23T00:00:00.000Z",
+    "startTime": "2008-12-18T23:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 4549,
+      "objectId": 366700,
+      "scribeId": 13805,
+      "slug": "west-indies-tour-of-new-zealand-2008-09",
+      "name": "West Indies tour of New Zealand",
+      "longName": "West Indies tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 453,
+      "objectId": 58857,
+      "name": "McLean Park",
+      "longName": "McLean Park, Napier",
+      "location": "",
+      "town": {
+        "id": 836,
+        "name": "Napier",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "307 & 375",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "371 & 220/5",
+        "scoreInfo": "51 ov, target 312",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 122815,
+    "reportStoryId": 122955,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 21079,
+    "id": 21079,
+    "objectId": 366705,
+    "scribeId": 366705,
+    "slug": "new-zealand-vs-west-indies-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2008-12-11T00:00:00.000Z",
+    "endDate": "2008-12-15T00:00:00.000Z",
+    "startTime": "2008-12-10T22:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 4549,
+      "objectId": 366700,
+      "scribeId": 13805,
+      "slug": "west-indies-tour-of-new-zealand-2008-09",
+      "name": "West Indies tour of New Zealand",
+      "longName": "West Indies tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2008,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 769,
+      "objectId": 58827,
+      "name": "University Oval",
+      "longName": "University Oval, Dunedin",
+      "location": "",
+      "town": {
+        "id": 825,
+        "name": "Dunedin",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "365 & 44/2",
+        "scoreInfo": "10 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "340",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 122711,
+    "drawOdds": null,
+    "isSuperOver": false
+  }
+]

@@ -1,0 +1,4528 @@
+[
+  {
+    "_uid": 3212,
+    "id": 3212,
+    "objectId": 65598,
+    "scribeId": 65598,
+    "slug": "australia-vs-india-12th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "12th Match",
+    "floodlit": "day",
+    "startDate": "2000-01-30T00:00:00.000Z",
+    "endDate": "2000-01-30T00:00:00.000Z",
+    "startTime": "2000-01-30T02:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 4 wickets (with 3 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 213,
+      "objectId": 56490,
+      "name": "W.A.C.A. Ground",
+      "longName": "W.A.C.A. Ground, Perth",
+      "location": "East Perth",
+      "town": {
+        "id": 27,
+        "name": "Perth",
+        "area": "Western Australia",
+        "timezone": "Australia/Perth"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "226/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "230/6",
+        "scoreInfo": "49.3/50 ov, target 227",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3210,
+    "id": 3210,
+    "objectId": 65596,
+    "scribeId": 65596,
+    "slug": "australia-vs-india-10th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "10th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-26T00:00:00.000Z",
+    "endDate": "2000-01-26T00:00:00.000Z",
+    "startTime": "2000-01-26T04:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 152 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "329/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "177",
+        "scoreInfo": "46.5/50 ov, target 330",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20748,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3208,
+    "id": 3208,
+    "objectId": 65594,
+    "scribeId": 65594,
+    "slug": "australia-vs-pakistan-8th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "8th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-23T00:00:00.000Z",
+    "endDate": "2000-01-23T00:00:00.000Z",
+    "startTime": "2000-01-23T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 15 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "260/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "245",
+        "scoreInfo": "48.5/50 ov, target 261",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20717,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3206,
+    "id": 3206,
+    "objectId": 65592,
+    "scribeId": 65592,
+    "slug": "australia-vs-pakistan-6th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "6th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-19T00:00:00.000Z",
+    "endDate": "2000-01-19T00:00:00.000Z",
+    "startTime": "2000-01-19T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 81 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "286",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "205",
+        "scoreInfo": "45.2/49 ov, target 287",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20645,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3205,
+    "id": 3205,
+    "objectId": 65591,
+    "scribeId": 65591,
+    "slug": "australia-vs-pakistan-5th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th Match",
+    "floodlit": "day",
+    "startDate": "2000-01-16T00:00:00.000Z",
+    "endDate": "2000-01-16T00:00:00.000Z",
+    "startTime": "2000-01-16T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 6 wickets (with 13 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "176/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "177/4",
+        "scoreInfo": "38.5/41 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20591,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3204,
+    "id": 3204,
+    "objectId": 65590,
+    "scribeId": 65590,
+    "slug": "australia-vs-india-4th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-14T00:00:00.000Z",
+    "endDate": "2000-01-14T00:00:00.000Z",
+    "startTime": "2000-01-14T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 139 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "100",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "101/5",
+        "scoreInfo": "26.5/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20573,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3203,
+    "id": 3203,
+    "objectId": 65589,
+    "scribeId": 65589,
+    "slug": "australia-vs-india-3rd-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-12T00:00:00.000Z",
+    "endDate": "2000-01-12T00:00:00.000Z",
+    "startTime": "2000-01-12T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 28 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "269/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "241/6",
+        "scoreInfo": "50 ov, target 270",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20532,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3201,
+    "id": 3201,
+    "objectId": 65587,
+    "scribeId": 65587,
+    "slug": "australia-vs-pakistan-1st-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-09T00:00:00.000Z",
+    "endDate": "2000-01-09T00:00:00.000Z",
+    "startTime": "2000-01-09T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Pakistan won by 45 runs",
+    "winnerTeamId": 7,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "184/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "139",
+        "scoreInfo": "39/50 ov, target 185",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20472,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1481,
+    "id": 1481,
+    "objectId": 63867,
+    "scribeId": 63867,
+    "slug": "australia-vs-india-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2000-01-02T00:00:00.000Z",
+    "endDate": "2000-01-04T00:00:00.000Z",
+    "startTime": "2000-01-02T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 141 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 2038,
+      "objectId": 62297,
+      "scribeId": 15744,
+      "slug": "india-tour-of-australia-1999-00",
+      "name": "India tour of Australia",
+      "longName": "India tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 1999,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "150 & 261",
+        "scoreInfo": "58 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "552/5d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 20395,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2268,
+    "id": 2268,
+    "objectId": 64654,
+    "scribeId": 64654,
+    "slug": "new-zealand-vs-australia-4th-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-02-26T00:00:00.000Z",
+    "endDate": "2000-02-26T00:00:00.000Z",
+    "startTime": "2000-02-26T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 48 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 152,
+      "objectId": 58812,
+      "name": "AMI Stadium",
+      "longName": "AMI Stadium, Christchurch",
+      "location": "",
+      "town": {
+        "id": 824,
+        "name": "Christchurch",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "349/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "301/9",
+        "scoreInfo": "50 ov, target 350",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20307,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2267,
+    "id": 2267,
+    "objectId": 64653,
+    "scribeId": 64653,
+    "slug": "new-zealand-vs-australia-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-02-23T00:00:00.000Z",
+    "endDate": "2000-02-23T00:00:00.000Z",
+    "startTime": "2000-02-23T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 50 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 155,
+      "objectId": 58822,
+      "name": "Carisbrook",
+      "longName": "Carisbrook, Dunedin",
+      "location": "",
+      "town": {
+        "id": 825,
+        "name": "Dunedin",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "310/4",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "260",
+        "scoreInfo": "45/50 ov, target 311",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2264,
+    "id": 2264,
+    "objectId": 64650,
+    "scribeId": 64650,
+    "slug": "new-zealand-vs-australia-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-02-19T00:00:00.000Z",
+    "endDate": "2000-02-19T00:00:00.000Z",
+    "startTime": "2000-02-19T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 152 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "122",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "123/5",
+        "scoreInfo": "24.4/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2262,
+    "id": 2262,
+    "objectId": 64648,
+    "scribeId": 64648,
+    "slug": "new-zealand-vs-australia-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-02-17T00:00:00.000Z",
+    "endDate": "2000-02-17T00:00:00.000Z",
+    "startTime": "2000-02-17T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 1,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1166,
+      "objectId": 58899,
+      "name": "Westpac Stadium",
+      "longName": "Westpac Stadium, Wellington",
+      "location": "",
+      "town": {
+        "id": 851,
+        "name": "Wellington",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "119/1",
+        "scoreInfo": "23/43 ov",
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3214,
+    "id": 3214,
+    "objectId": 65600,
+    "scribeId": 65600,
+    "slug": "australia-vs-pakistan-2nd-final",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd Final",
+    "floodlit": "daynight",
+    "startDate": "2000-02-04T00:00:00.000Z",
+    "endDate": "2000-02-04T00:00:00.000Z",
+    "startTime": "2000-02-04T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 152 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "337/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "185",
+        "scoreInfo": "36.3/50 ov, target 338",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3213,
+    "id": 3213,
+    "objectId": 65599,
+    "scribeId": 65599,
+    "slug": "australia-vs-pakistan-1st-final",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st Final",
+    "floodlit": "daynight",
+    "startDate": "2000-02-02T00:00:00.000Z",
+    "endDate": "2000-02-02T00:00:00.000Z",
+    "startTime": "2000-02-02T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 6 wickets (with 44 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 799,
+      "objectId": 61058,
+      "scribeId": 8531,
+      "slug": "carlton-united-series-1999-00",
+      "name": "Carlton & United Series",
+      "longName": "Carlton & United Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "154",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "155/4",
+        "scoreInfo": "42.4/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1491,
+    "id": 1491,
+    "objectId": 63877,
+    "scribeId": 63877,
+    "slug": "new-zealand-vs-australia-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2000-03-31T00:00:00.000Z",
+    "endDate": "2000-04-03T00:00:00.000Z",
+    "startTime": "2000-03-30T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 6 wickets",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 504,
+      "objectId": 58831,
+      "name": "Seddon Park",
+      "longName": "Seddon Park, Hamilton",
+      "location": "",
+      "town": {
+        "id": 827,
+        "name": "Hamilton",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "232 & 229",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "252 & 212/4",
+        "scoreInfo": "41.3 ov, target 210",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 23023,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1490,
+    "id": 1490,
+    "objectId": 63876,
+    "scribeId": 63876,
+    "slug": "new-zealand-vs-australia-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2000-03-24T00:00:00.000Z",
+    "endDate": "2000-03-27T00:00:00.000Z",
+    "startTime": "2000-03-23T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 6 wickets",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 116,
+      "objectId": 58895,
+      "name": "Basin Reserve",
+      "longName": "Basin Reserve, Wellington",
+      "location": "",
+      "town": {
+        "id": 851,
+        "name": "Wellington",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "298 & 294",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "419 & 177/4",
+        "scoreInfo": "54.1 ov, target 174",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1489,
+    "id": 1489,
+    "objectId": 63875,
+    "scribeId": 63875,
+    "slug": "new-zealand-vs-australia-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2000-03-11T00:00:00.000Z",
+    "endDate": "2000-03-15T00:00:00.000Z",
+    "startTime": "2000-03-10T22:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 62 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "214 & 229",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "163 & 218",
+        "scoreInfo": "73.3 ov, target 281",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 22741,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2270,
+    "id": 2270,
+    "objectId": 64656,
+    "scribeId": 64656,
+    "slug": "new-zealand-vs-australia-6th-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "6th ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-03-03T00:00:00.000Z",
+    "endDate": "2000-03-03T00:00:00.000Z",
+    "startTime": "2000-03-03T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "New Zealand won by 7 wickets (with 54 balls remaining)",
+    "winnerTeamId": 5,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "191",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "194/3",
+        "scoreInfo": "41/50 ov, target 192",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2269,
+    "id": 2269,
+    "objectId": 64655,
+    "scribeId": 64655,
+    "slug": "new-zealand-vs-australia-5th-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-03-01T00:00:00.000Z",
+    "endDate": "2000-03-01T00:00:00.000Z",
+    "startTime": "2000-03-01T01:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 26 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1145,
+      "objectId": 61404,
+      "scribeId": 15712,
+      "slug": "australia-tour-of-new-zealand-1999-00",
+      "name": "Australia tour of New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 453,
+      "objectId": 58857,
+      "name": "McLean Park",
+      "longName": "McLean Park, Napier",
+      "location": "",
+      "town": {
+        "id": 836,
+        "name": "Napier",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "243/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "245/5",
+        "scoreInfo": "45.4/50 ov, target 244",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2278,
+    "id": 2278,
+    "objectId": 64664,
+    "scribeId": 64664,
+    "slug": "south-africa-vs-australia-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2000-04-16T00:00:00.000Z",
+    "endDate": "2000-04-16T00:00:00.000Z",
+    "startTime": "2000-04-16T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 4 wickets (with 13 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1112,
+      "objectId": 61371,
+      "scribeId": 15694,
+      "slug": "australia-tour-of-south-africa-1999-00",
+      "name": "Australia tour of South Africa",
+      "longName": "Australia tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 508,
+      "objectId": 59120,
+      "name": "The Wanderers Stadium",
+      "longName": "The Wanderers Stadium, Johannesburg",
+      "location": "",
+      "town": {
+        "id": 901,
+        "name": "Johannesburg",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "205",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "209/6",
+        "scoreInfo": "47.5/50 ov, target 206",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 17548,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2277,
+    "id": 2277,
+    "objectId": 64663,
+    "scribeId": 64663,
+    "slug": "south-africa-vs-australia-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-04-14T00:00:00.000Z",
+    "endDate": "2000-04-14T00:00:00.000Z",
+    "startTime": "2000-04-14T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 153 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1112,
+      "objectId": 61371,
+      "scribeId": 15694,
+      "slug": "australia-tour-of-south-africa-1999-00",
+      "name": "Australia tour of South Africa",
+      "longName": "Australia tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 174,
+      "objectId": 59068,
+      "name": "Newlands",
+      "longName": "Newlands, Cape Town",
+      "location": "",
+      "town": {
+        "id": 893,
+        "name": "Cape Town",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "144/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "145/5",
+        "scoreInfo": "24.3/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 17502,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2276,
+    "id": 2276,
+    "objectId": 64662,
+    "scribeId": 64662,
+    "slug": "south-africa-vs-australia-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-04-12T00:00:00.000Z",
+    "endDate": "2000-04-12T00:00:00.000Z",
+    "startTime": "2000-04-12T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 6 wickets (with 12 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1112,
+      "objectId": 61371,
+      "scribeId": 15694,
+      "slug": "australia-tour-of-south-africa-1999-00",
+      "name": "Australia tour of South Africa",
+      "longName": "Australia tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 302,
+      "objectId": 59089,
+      "name": "Kingsmead",
+      "longName": "Kingsmead, Durban",
+      "location": "",
+      "town": {
+        "id": 897,
+        "name": "Durban",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "240/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "241/4",
+        "scoreInfo": "48/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 17473,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2281,
+    "id": 2281,
+    "objectId": 64667,
+    "scribeId": 64667,
+    "slug": "australia-vs-south-africa-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2000-08-20T00:00:00.000Z",
+    "endDate": "2000-08-20T00:00:00.000Z",
+    "startTime": "2000-08-20T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 8 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1570,
+      "objectId": 61829,
+      "scribeId": 15654,
+      "slug": "south-africa-tour-of-australia-2000",
+      "name": "South Africa tour of Australia",
+      "longName": "South Africa tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1177,
+      "objectId": 56450,
+      "name": "Docklands Stadium",
+      "longName": "Docklands Stadium, Melbourne",
+      "location": "Docklands",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "206/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "198/9",
+        "scoreInfo": "48/48 ov, target 207",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 18314,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2280,
+    "id": 2280,
+    "objectId": 64666,
+    "scribeId": 64666,
+    "slug": "australia-vs-south-africa-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-08-18T00:00:00.000Z",
+    "endDate": "2000-08-18T00:00:00.000Z",
+    "startTime": "2000-08-18T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match tied",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 3,
+    "liveInning": 2,
+    "series": {
+      "id": 1570,
+      "objectId": 61829,
+      "scribeId": 15654,
+      "slug": "south-africa-tour-of-australia-2000",
+      "name": "South Africa tour of Australia",
+      "longName": "South Africa tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1177,
+      "objectId": 56450,
+      "name": "Docklands Stadium",
+      "longName": "Docklands Stadium, Melbourne",
+      "location": "Docklands",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "226/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "226/9",
+        "scoreInfo": "50 ov, target 227",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 18261,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2279,
+    "id": 2279,
+    "objectId": 64665,
+    "scribeId": 64665,
+    "slug": "australia-vs-south-africa-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-08-16T00:00:00.000Z",
+    "endDate": "2000-08-16T00:00:00.000Z",
+    "startTime": "2000-08-16T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 94 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1570,
+      "objectId": 61829,
+      "scribeId": 15654,
+      "slug": "south-africa-tour-of-australia-2000",
+      "name": "South Africa tour of Australia",
+      "longName": "South Africa tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1177,
+      "objectId": 56450,
+      "name": "Docklands Stadium",
+      "longName": "Docklands Stadium, Melbourne",
+      "location": "Docklands",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "295/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "201/7",
+        "scoreInfo": "50 ov, target 296",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 18159,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 5363,
+    "id": 5363,
+    "objectId": 85052,
+    "scribeId": 85052,
+    "slug": "queensland-vs-australians",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": null,
+    "startDate": "2000-08-13T00:00:00.000Z",
+    "endDate": "2000-08-13T00:00:00.000Z",
+    "startTime": "2000-08-13T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australians won by 1 wicket (with 77 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 510,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 7738,
+      "objectId": 587308,
+      "scribeId": 15629,
+      "slug": "other-matches-2000-01",
+      "name": "Other Matches",
+      "longName": "Other Matches",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 7,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1154,
+      "objectId": 56333,
+      "name": "Allan Border Field",
+      "longName": "Allan Border Field, Brisbane",
+      "location": "Breakfast Creek",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 510,
+          "objectId": 459,
+          "scribeId": 459,
+          "slug": "queensland",
+          "name": "Queensland",
+          "longName": "Queensland",
+          "abbreviation": "QLD",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313233.logo.png",
+            "caption": "Queensland logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "173",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australians",
+          "longName": "Australians",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "174/9",
+        "scoreInfo": "37.1/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 18085,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 5361,
+    "id": 5361,
+    "objectId": 85009,
+    "scribeId": 85009,
+    "slug": "queensland-vs-australians",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": null,
+    "startDate": "2000-08-11T00:00:00.000Z",
+    "endDate": "2000-08-11T00:00:00.000Z",
+    "startTime": "2000-08-11T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australians won by 75 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 510,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 7738,
+      "objectId": 587308,
+      "scribeId": 15629,
+      "slug": "other-matches-2000-01",
+      "name": "Other Matches",
+      "longName": "Other Matches",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 7,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1154,
+      "objectId": 56333,
+      "name": "Allan Border Field",
+      "longName": "Allan Border Field, Brisbane",
+      "location": "Breakfast Creek",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australians",
+          "longName": "Australians",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "238/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 510,
+          "objectId": 459,
+          "scribeId": 459,
+          "slug": "queensland",
+          "name": "Queensland",
+          "longName": "Queensland",
+          "abbreviation": "QLD",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313233.logo.png",
+            "caption": "Queensland logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "163",
+        "scoreInfo": "44.4/50 ov, target 239",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 18047,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 6068,
+    "id": 6068,
+    "objectId": 92744,
+    "scribeId": 92744,
+    "slug": "kenya-vs-australia",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": "day",
+    "startDate": "2000-09-30T00:00:00.000Z",
+    "endDate": "2000-09-30T00:00:00.000Z",
+    "startTime": "2000-09-30T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 93 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1179,
+      "objectId": 61438,
+      "scribeId": 15622,
+      "slug": "australia-tour-of-kenya-2000-01",
+      "name": "Australia tour of Kenya",
+      "longName": "Australia tour of Kenya",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 8,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1589,
+      "objectId": 58659,
+      "name": "Simba Union Ground",
+      "longName": "Simba Union Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "246/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 26,
+          "objectId": 26,
+          "scribeId": 26,
+          "slug": "kenya",
+          "name": "Kenya",
+          "longName": "Kenya",
+          "abbreviation": "KENYA",
+          "isCountry": true,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313146.logo.png",
+            "caption": "Kenya logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "153",
+        "scoreInfo": "43.2/50 ov, target 247",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 24864,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3787,
+    "id": 3787,
+    "objectId": 66173,
+    "scribeId": 66173,
+    "slug": "australia-vs-india-1st-qf",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st QF",
+    "floodlit": "day",
+    "startDate": "2000-10-07T00:00:00.000Z",
+    "endDate": "2000-10-07T00:00:00.000Z",
+    "startTime": "2000-10-07T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 20 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 814,
+      "objectId": 61073,
+      "scribeId": 8081,
+      "slug": "icc-knockout-2000-01",
+      "name": "ICC KnockOut",
+      "longName": "ICC KnockOut",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 700,
+      "objectId": 58661,
+      "name": "Gymkhana Club Ground",
+      "longName": "Gymkhana Club Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "265/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "245",
+        "scoreInfo": "46.4/48 ov, target 266",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 285840,
+    "reportStoryId": 285865,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 49092,
+    "id": 49092,
+    "objectId": 587330,
+    "scribeId": 587330,
+    "slug": "australia-vs-england",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": null,
+    "startDate": "2000-10-03T00:00:00.000Z",
+    "endDate": "2000-10-03T00:00:00.000Z",
+    "startTime": "2000-10-03T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match tied",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 3,
+    "liveInning": 2,
+    "series": {
+      "id": 2143,
+      "objectId": 83579,
+      "scribeId": 15623,
+      "slug": "icc-knockout-warm-up-matches-2000-01",
+      "name": "ICC KnockOut Warm-up Matches",
+      "longName": "ICC KnockOut Warm-up Matches",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 7,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1589,
+      "objectId": 58659,
+      "name": "Simba Union Ground",
+      "longName": "Simba Union Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "236/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "236",
+        "scoreInfo": "49.4/50 ov, target 237",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1521,
+    "id": 1521,
+    "objectId": 63907,
+    "scribeId": 63907,
+    "slug": "australia-vs-west-indies-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2000-11-23T00:00:00.000Z",
+    "endDate": "2000-11-25T00:00:00.000Z",
+    "startTime": "2000-11-23T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 126 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1638,
+      "objectId": 61897,
+      "scribeId": 15600,
+      "slug": "west-indies-tour-of-australia-2000-01",
+      "name": "West Indies tour of Australia",
+      "longName": "West Indies tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "82 & 124",
+        "scoreInfo": "58 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "332",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 24661,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1524,
+    "id": 1524,
+    "objectId": 63910,
+    "scribeId": 63910,
+    "slug": "australia-vs-west-indies-4th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "4th Test",
+    "floodlit": "day",
+    "startDate": "2000-12-26T00:00:00.000Z",
+    "endDate": "2000-12-29T00:00:00.000Z",
+    "startTime": "2000-12-26T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 352 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1638,
+      "objectId": 61897,
+      "scribeId": 15600,
+      "slug": "west-indies-tour-of-australia-2000-01",
+      "name": "West Indies tour of Australia",
+      "longName": "West Indies tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "364 & 262/5d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "165 & 109",
+        "scoreInfo": "49.3 ov, target 462",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 19749,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1523,
+    "id": 1523,
+    "objectId": 63909,
+    "scribeId": 63909,
+    "slug": "australia-vs-west-indies-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2000-12-15T00:00:00.000Z",
+    "endDate": "2000-12-19T00:00:00.000Z",
+    "startTime": "2000-12-15T00:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1638,
+      "objectId": 61897,
+      "scribeId": 15600,
+      "slug": "west-indies-tour-of-australia-2000-01",
+      "name": "West Indies tour of Australia",
+      "longName": "West Indies tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "391 & 141",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "403 & 130/5",
+        "scoreInfo": "43 ov, target 130",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 19567,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1522,
+    "id": 1522,
+    "objectId": 63908,
+    "scribeId": 63908,
+    "slug": "australia-vs-west-indies-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2000-12-01T00:00:00.000Z",
+    "endDate": "2000-12-03T00:00:00.000Z",
+    "startTime": "2000-12-01T02:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 27 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1638,
+      "objectId": 61897,
+      "scribeId": 15600,
+      "slug": "west-indies-tour-of-australia-2000-01",
+      "name": "West Indies tour of Australia",
+      "longName": "West Indies tour of Australia",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 213,
+      "objectId": 56490,
+      "name": "W.A.C.A. Ground",
+      "longName": "W.A.C.A. Ground, Perth",
+      "location": "East Perth",
+      "town": {
+        "id": 27,
+        "name": "Perth",
+        "area": "Western Australia",
+        "timezone": "Australia/Perth"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "196 & 173",
+        "scoreInfo": "66 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "396/8d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 18839,
+    "drawOdds": null,
+    "isSuperOver": false
+  }
+]

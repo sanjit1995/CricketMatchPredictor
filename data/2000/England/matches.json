@@ -1,0 +1,5533 @@
+[
+  {
+    "_uid": 3707,
+    "id": 3707,
+    "objectId": 66093,
+    "scribeId": 66093,
+    "slug": "england-vs-zimbabwe-5th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th Match",
+    "floodlit": "day",
+    "startDate": "2000-01-30T00:00:00.000Z",
+    "endDate": "2000-01-30T00:00:00.000Z",
+    "startTime": "2000-01-30T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 8 wickets (with 107 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 703,
+      "objectId": 59135,
+      "name": "Diamond Oval",
+      "longName": "Diamond Oval, Kimberley",
+      "location": "",
+      "town": {
+        "id": 902,
+        "name": "Kimberley",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "161/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "162/2",
+        "scoreInfo": "32.1/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3706,
+    "id": 3706,
+    "objectId": 66092,
+    "scribeId": 66092,
+    "slug": "england-vs-zimbabwe-4th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-28T00:00:00.000Z",
+    "endDate": "2000-01-28T00:00:00.000Z",
+    "startTime": "2000-01-28T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Zimbabwe won by 104 runs",
+    "winnerTeamId": 9,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 174,
+      "objectId": 59068,
+      "name": "Newlands",
+      "longName": "Newlands, Cape Town",
+      "location": "",
+      "town": {
+        "id": 893,
+        "name": "Cape Town",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "211/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "107",
+        "scoreInfo": "34.2/50 ov, target 212",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3705,
+    "id": 3705,
+    "objectId": 66091,
+    "scribeId": 66091,
+    "slug": "south-africa-vs-england-3rd-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd Match",
+    "floodlit": "daynight",
+    "startDate": "2000-01-26T00:00:00.000Z",
+    "endDate": "2000-01-26T00:00:00.000Z",
+    "startTime": "2000-01-26T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 1 run",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 174,
+      "objectId": 59068,
+      "name": "Newlands",
+      "longName": "Newlands, Cape Town",
+      "location": "",
+      "town": {
+        "id": 893,
+        "name": "Cape Town",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "204/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "203/9",
+        "scoreInfo": "50 ov, target 205",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 20753,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3704,
+    "id": 3704,
+    "objectId": 66090,
+    "scribeId": 66090,
+    "slug": "south-africa-vs-england-2nd-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd Match",
+    "floodlit": "day",
+    "startDate": "2000-01-23T00:00:00.000Z",
+    "endDate": "2000-01-23T00:00:00.000Z",
+    "startTime": "2000-01-23T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 9 wickets (with 63 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 949,
+      "objectId": 59042,
+      "name": "Mangaung Oval",
+      "longName": "Mangaung Oval, Bloemfontein",
+      "location": "",
+      "town": {
+        "id": 888,
+        "name": "Bloemfontein",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "184",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "185/1",
+        "scoreInfo": "39.3/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 48968,
+    "id": 48968,
+    "objectId": 586274,
+    "scribeId": 586274,
+    "slug": "north-west-vs-england-xi-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 5,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2000-01-20T00:00:00.000Z",
+    "endDate": "2000-01-20T00:00:00.000Z",
+    "startTime": "2000-01-20T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England XI won by 41 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1428,
+      "objectId": 61687,
+      "scribeId": 15756,
+      "slug": "england-tour-of-south-africa-1999-00",
+      "name": "England tour of South Africa",
+      "longName": "England tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 1999,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1367,
+      "objectId": 59172,
+      "name": "Senwes Park",
+      "longName": "Senwes Park, Potchefstroom",
+      "location": "",
+      "town": {
+        "id": 912,
+        "name": "Potchefstroom",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "264/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3329,
+          "objectId": 3278,
+          "scribeId": 3278,
+          "slug": "north-west-dragons",
+          "name": "North West",
+          "longName": "North West",
+          "abbreviation": "NWEST",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "223/8",
+        "scoreInfo": "50 ov, target 265",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1478,
+    "id": 1478,
+    "objectId": 63864,
+    "scribeId": 63864,
+    "slug": "south-africa-vs-england-5th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "5th Test",
+    "floodlit": "day",
+    "startDate": "2000-01-14T00:00:00.000Z",
+    "endDate": "2000-01-18T00:00:00.000Z",
+    "startTime": "2000-01-14T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 2 wickets",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1428,
+      "objectId": 61687,
+      "scribeId": 15756,
+      "slug": "england-tour-of-south-africa-1999-00",
+      "name": "England tour of South Africa",
+      "longName": "England tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 1999,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 902,
+      "objectId": 59079,
+      "name": "SuperSport Park",
+      "longName": "SuperSport Park, Centurion",
+      "location": "",
+      "town": {
+        "id": 894,
+        "name": "Centurion",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "248/8d & forfeit",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "0/0d & 251/8",
+        "scoreInfo": "75.1 ov, target 249",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 48967,
+    "id": 48967,
+    "objectId": 586273,
+    "scribeId": 586273,
+    "slug": "south-african-invitational-xi-vs-england-xi-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2000-01-09T00:00:00.000Z",
+    "endDate": "2000-01-11T00:00:00.000Z",
+    "startTime": "2000-01-09T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 3369,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 1428,
+      "objectId": 61687,
+      "scribeId": 15756,
+      "slug": "england-tour-of-south-africa-1999-00",
+      "name": "England tour of South Africa",
+      "longName": "England tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 1999,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 173,
+      "objectId": 59159,
+      "name": "St George's Park",
+      "longName": "St George's Park, Port Elizabeth",
+      "location": "",
+      "town": {
+        "id": 911,
+        "name": "Port Elizabeth",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3369,
+          "objectId": 3318,
+          "scribeId": 3318,
+          "slug": "south-african-invitation-xi",
+          "name": "SAf Invit XI",
+          "longName": "South African Invitational XI",
+          "abbreviation": "SAInv",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "253/7d & 223/6",
+        "scoreInfo": "76.4 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "331",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1477,
+    "id": 1477,
+    "objectId": 63863,
+    "scribeId": 63863,
+    "slug": "south-africa-vs-england-4th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "4th Test",
+    "floodlit": "day",
+    "startDate": "2000-01-02T00:00:00.000Z",
+    "endDate": "2000-01-05T00:00:00.000Z",
+    "startTime": "2000-01-02T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by an innings and 37 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1428,
+      "objectId": 61687,
+      "scribeId": 15756,
+      "slug": "england-tour-of-south-africa-1999-00",
+      "name": "England tour of South Africa",
+      "longName": "England tour of South Africa",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 1999,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 174,
+      "objectId": 59068,
+      "name": "Newlands",
+      "longName": "Newlands, Cape Town",
+      "location": "",
+      "town": {
+        "id": 893,
+        "name": "Cape Town",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "258 & 126",
+        "scoreInfo": "60.3 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "421",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 4037,
+    "id": 4037,
+    "objectId": 66423,
+    "scribeId": 66423,
+    "slug": "zimbabwe-vs-england-4th-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "day",
+    "startDate": "2000-02-23T00:00:00.000Z",
+    "endDate": "2000-02-23T00:00:00.000Z",
+    "startTime": "2000-02-23T07:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "ABANDONED",
+    "statusText": "Match abandoned without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 6,
+    "liveInning": null,
+    "series": {
+      "id": 1480,
+      "objectId": 61739,
+      "scribeId": 15714,
+      "slug": "england-tour-of-zimbabwe-1999-00",
+      "name": "England tour of Zimbabwe",
+      "longName": "England tour of Zimbabwe",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 260,
+      "objectId": 59545,
+      "name": "Harare Sports Club",
+      "longName": "Harare Sports Club",
+      "location": "",
+      "town": {
+        "id": 1028,
+        "name": "Harare",
+        "area": "",
+        "timezone": "Africa/Harare"
+      },
+      "country": {
+        "id": 9,
+        "name": "Zimbabwe (and Rhodesia)"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2266,
+    "id": 2266,
+    "objectId": 64652,
+    "scribeId": 64652,
+    "slug": "zimbabwe-vs-england-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2000-02-20T00:00:00.000Z",
+    "endDate": "2000-02-20T00:00:00.000Z",
+    "startTime": "2000-02-20T07:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 85 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1480,
+      "objectId": 61739,
+      "scribeId": 15714,
+      "slug": "england-tour-of-zimbabwe-1999-00",
+      "name": "England tour of Zimbabwe",
+      "longName": "England tour of Zimbabwe",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 260,
+      "objectId": 59545,
+      "name": "Harare Sports Club",
+      "longName": "Harare Sports Club",
+      "location": "",
+      "town": {
+        "id": 1028,
+        "name": "Harare",
+        "area": "",
+        "timezone": "Africa/Harare"
+      },
+      "country": {
+        "id": 9,
+        "name": "Zimbabwe (and Rhodesia)"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "248/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "163",
+        "scoreInfo": "46.5/50 ov, target 249",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2263,
+    "id": 2263,
+    "objectId": 64649,
+    "scribeId": 64649,
+    "slug": "zimbabwe-vs-england-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "day",
+    "startDate": "2000-02-18T00:00:00.000Z",
+    "endDate": "2000-02-18T00:00:00.000Z",
+    "startTime": "2000-02-18T07:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 1 wicket (with 22 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1480,
+      "objectId": 61739,
+      "scribeId": 15714,
+      "slug": "england-tour-of-zimbabwe-1999-00",
+      "name": "England tour of Zimbabwe",
+      "longName": "England tour of Zimbabwe",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 261,
+      "objectId": 59537,
+      "name": "Queens Sports Club",
+      "longName": "Queens Sports Club, Bulawayo",
+      "location": "",
+      "town": {
+        "id": 1027,
+        "name": "Bulawayo",
+        "area": "",
+        "timezone": "Africa/Harare"
+      },
+      "country": {
+        "id": 9,
+        "name": "Zimbabwe (and Rhodesia)"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "131",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "134/9",
+        "scoreInfo": "44.2/48 ov, target 132",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2261,
+    "id": 2261,
+    "objectId": 64647,
+    "scribeId": 64647,
+    "slug": "zimbabwe-vs-england-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "day",
+    "startDate": "2000-02-16T00:00:00.000Z",
+    "endDate": "2000-02-16T00:00:00.000Z",
+    "startTime": "2000-02-16T07:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 5 wickets (with 9 balls remaining) (D/L method)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1480,
+      "objectId": 61739,
+      "scribeId": 15714,
+      "slug": "england-tour-of-zimbabwe-1999-00",
+      "name": "England tour of Zimbabwe",
+      "longName": "England tour of Zimbabwe",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 261,
+      "objectId": 59537,
+      "name": "Queens Sports Club",
+      "longName": "Queens Sports Club, Bulawayo",
+      "location": "",
+      "town": {
+        "id": 1027,
+        "name": "Bulawayo",
+        "area": "",
+        "timezone": "Africa/Harare"
+      },
+      "country": {
+        "id": 9,
+        "name": "Zimbabwe (and Rhodesia)"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "194/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "199/5",
+        "scoreInfo": "46.3/48 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3711,
+    "id": 3711,
+    "objectId": 66097,
+    "scribeId": 66097,
+    "slug": "south-africa-vs-england-final",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "Final",
+    "floodlit": "daynight",
+    "startDate": "2000-02-13T00:00:00.000Z",
+    "endDate": "2000-02-13T00:00:00.000Z",
+    "startTime": "2000-02-13T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 38 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 508,
+      "objectId": 59120,
+      "name": "The Wanderers Stadium",
+      "longName": "The Wanderers Stadium, Johannesburg",
+      "location": "",
+      "town": {
+        "id": 901,
+        "name": "Johannesburg",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "149",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "111",
+        "scoreInfo": "38/45 ov, target 150",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 4036,
+    "id": 4036,
+    "objectId": 66422,
+    "scribeId": 66422,
+    "slug": "england-vs-zimbabwe-9th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "9th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-02-09T00:00:00.000Z",
+    "endDate": "2000-02-09T00:00:00.000Z",
+    "startTime": "2000-02-09T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "ABANDONED",
+    "statusText": "Match abandoned without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 6,
+    "liveInning": null,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 902,
+      "objectId": 59079,
+      "name": "SuperSport Park",
+      "longName": "SuperSport Park, Centurion",
+      "location": "",
+      "town": {
+        "id": 894,
+        "name": "Centurion",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3709,
+    "id": 3709,
+    "objectId": 66095,
+    "scribeId": 66095,
+    "slug": "south-africa-vs-england-7th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "7th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-02-04T00:00:00.000Z",
+    "endDate": "2000-02-04T00:00:00.000Z",
+    "startTime": "2000-02-04T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 2 wickets (with 2 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 800,
+      "objectId": 61059,
+      "scribeId": 8553,
+      "slug": "standard-bank-triangular-tournament-1999-00",
+      "name": "Standard Bank Triangular Tournament",
+      "longName": "Standard Bank Triangular Tournament",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 931,
+      "objectId": 59098,
+      "name": "Buffalo Park",
+      "longName": "Buffalo Park, East London",
+      "location": "",
+      "town": {
+        "id": 898,
+        "name": "East London",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "231/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "233/8",
+        "scoreInfo": "49.4/50 ov, target 232",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1497,
+    "id": 1497,
+    "objectId": 63883,
+    "scribeId": 63883,
+    "slug": "england-vs-zimbabwe-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2000-05-18T00:00:00.000Z",
+    "endDate": "2000-05-21T00:00:00.000Z",
+    "startTime": "2000-05-18T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by an innings and 209 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1729,
+      "objectId": 61988,
+      "scribeId": 15685,
+      "slug": "zimbabwe-tour-of-england-and-ireland-2000",
+      "name": "Zimbabwe tour of England and Ireland",
+      "longName": "Zimbabwe tour of England and Ireland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "83 & 123",
+        "scoreInfo": "38.2 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "415",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 23429,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1503,
+    "id": 1503,
+    "objectId": 63889,
+    "scribeId": 63889,
+    "slug": "england-vs-west-indies-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2000-06-29T00:00:00.000Z",
+    "endDate": "2000-07-01T00:00:00.000Z",
+    "startTime": "2000-06-29T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 2 wickets",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1620,
+      "objectId": 61879,
+      "scribeId": 15675,
+      "slug": "west-indies-tour-of-england-and-scotland-2000",
+      "name": "West Indies tour of England and Scotland",
+      "longName": "West Indies tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "267 & 54",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "134 & 191/8",
+        "scoreInfo": "69.5 ov, target 188",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 22444,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1502,
+    "id": 1502,
+    "objectId": 63888,
+    "scribeId": 63888,
+    "slug": "england-vs-west-indies-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2000-06-15T00:00:00.000Z",
+    "endDate": "2000-06-17T00:00:00.000Z",
+    "startTime": "2000-06-15T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "West Indies won by an innings and 93 runs",
+    "winnerTeamId": 4,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1620,
+      "objectId": 61879,
+      "scribeId": 15675,
+      "slug": "west-indies-tour-of-england-and-scotland-2000",
+      "name": "West Indies tour of England and Scotland",
+      "longName": "West Indies tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 164,
+      "objectId": 56788,
+      "name": "Edgbaston",
+      "longName": "Edgbaston, Birmingham",
+      "location": "",
+      "town": {
+        "id": 100,
+        "name": "Birmingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "179 & 125",
+        "scoreInfo": "58 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "397",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 22207,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1498,
+    "id": 1498,
+    "objectId": 63884,
+    "scribeId": 63884,
+    "slug": "england-vs-zimbabwe-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2000-06-01T00:00:00.000Z",
+    "endDate": "2000-06-05T00:00:00.000Z",
+    "startTime": "2000-06-01T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 1729,
+      "objectId": 61988,
+      "scribeId": 15685,
+      "slug": "zimbabwe-tour-of-england-and-ireland-2000",
+      "name": "Zimbabwe tour of England and Ireland",
+      "longName": "Zimbabwe tour of England and Ireland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 34,
+      "objectId": 57219,
+      "name": "Trent Bridge",
+      "longName": "Trent Bridge, Nottingham",
+      "location": "",
+      "town": {
+        "id": 254,
+        "name": "Nottingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "374 & 147",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "285/4d & 25/1",
+        "scoreInfo": "5 ov, target 237",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 21956,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3887,
+    "id": 3887,
+    "objectId": 66273,
+    "scribeId": 66273,
+    "slug": "england-vs-zimbabwe-final",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "Final",
+    "floodlit": "day",
+    "startDate": "2000-07-22T00:00:00.000Z",
+    "endDate": "2000-07-22T00:00:00.000Z",
+    "startTime": "2000-07-22T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 6 wickets (with 28 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "169/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "170/4",
+        "scoreInfo": "45.2/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21651,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3886,
+    "id": 3886,
+    "objectId": 66272,
+    "scribeId": 66272,
+    "slug": "england-vs-west-indies-9th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "9th Match",
+    "floodlit": "day",
+    "startDate": "2000-07-20T00:00:00.000Z",
+    "endDate": "2000-07-20T00:00:00.000Z",
+    "startTime": "2000-07-20T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "West Indies won by 3 runs",
+    "winnerTeamId": 4,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 34,
+      "objectId": 57219,
+      "name": "Trent Bridge",
+      "longName": "Trent Bridge, Nottingham",
+      "location": "",
+      "town": {
+        "id": 254,
+        "name": "Nottingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "195/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "192",
+        "scoreInfo": "49.5/50 ov, target 196",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21584,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3885,
+    "id": 3885,
+    "objectId": 66271,
+    "scribeId": 66271,
+    "slug": "england-vs-zimbabwe-8th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "8th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-07-18T00:00:00.000Z",
+    "endDate": "2000-07-18T00:00:00.000Z",
+    "startTime": "2000-07-18T13:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 52 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 164,
+      "objectId": 56788,
+      "name": "Edgbaston",
+      "longName": "Edgbaston, Birmingham",
+      "location": "",
+      "town": {
+        "id": 100,
+        "name": "Birmingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "262/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "210/9",
+        "scoreInfo": "50 ov, target 263",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21520,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3883,
+    "id": 3883,
+    "objectId": 66269,
+    "scribeId": 66269,
+    "slug": "england-vs-west-indies-6th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "6th Match",
+    "floodlit": "day",
+    "startDate": "2000-07-15T00:00:00.000Z",
+    "endDate": "2000-07-15T00:00:00.000Z",
+    "startTime": "2000-07-15T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 10 wickets (with 88 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1039,
+      "objectId": 56901,
+      "name": "Riverside Ground",
+      "longName": "Riverside Ground, Chester-le-Street",
+      "location": "",
+      "town": {
+        "id": 134,
+        "name": "Chester-le-Street",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "169/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "171/0",
+        "scoreInfo": "35.2/50 ov, target 170",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21429,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3882,
+    "id": 3882,
+    "objectId": 66268,
+    "scribeId": 66268,
+    "slug": "england-vs-zimbabwe-5th-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th Match",
+    "floodlit": "daynight",
+    "startDate": "2000-07-13T00:00:00.000Z",
+    "endDate": "2000-07-13T00:00:00.000Z",
+    "startTime": "2000-07-13T13:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 8 wickets (with 177 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 9,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "114",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "115/2",
+        "scoreInfo": "20.3/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21389,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3880,
+    "id": 3880,
+    "objectId": 66266,
+    "scribeId": 66266,
+    "slug": "england-vs-west-indies-3rd-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd Match",
+    "floodlit": "day",
+    "startDate": "2000-07-09T00:00:00.000Z",
+    "endDate": "2000-07-09T00:00:00.000Z",
+    "startTime": "2000-07-09T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 1,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "158/8",
+        "scoreInfo": "43.5/50 ov",
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21313,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3879,
+    "id": 3879,
+    "objectId": 66265,
+    "scribeId": 66265,
+    "slug": "england-vs-zimbabwe-2nd-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd Match",
+    "floodlit": "day",
+    "startDate": "2000-07-08T00:00:00.000Z",
+    "endDate": "2000-07-08T00:00:00.000Z",
+    "startTime": "2000-07-08T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Zimbabwe won by 5 wickets (with 10 balls remaining)",
+    "winnerTeamId": 9,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 810,
+      "objectId": 61069,
+      "scribeId": 8569,
+      "slug": "natwest-series-2000",
+      "name": "NatWest Series",
+      "longName": "NatWest Series",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "207",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 9,
+          "objectId": 9,
+          "scribeId": 9,
+          "slug": "zimbabwe",
+          "name": "Zimbabwe",
+          "longName": "Zimbabwe",
+          "abbreviation": "ZIM",
+          "isCountry": true,
+          "primaryColor": "#d04037",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313131.logo.png",
+            "caption": "Zimbabwe (and Rhodesia) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "210/5",
+        "scoreInfo": "48.2/50 ov, target 208",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 21260,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1506,
+    "id": 1506,
+    "objectId": 63892,
+    "scribeId": 63892,
+    "slug": "england-vs-west-indies-5th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "5th Test",
+    "floodlit": "day",
+    "startDate": "2000-08-31T00:00:00.000Z",
+    "endDate": "2000-09-04T00:00:00.000Z",
+    "startTime": "2000-08-31T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 158 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1620,
+      "objectId": 61879,
+      "scribeId": 15675,
+      "slug": "west-indies-tour-of-england-and-scotland-2000",
+      "name": "West Indies tour of England and Scotland",
+      "longName": "West Indies tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "281 & 217",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "125 & 215",
+        "scoreInfo": "70 ov, target 374",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 25932,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1505,
+    "id": 1505,
+    "objectId": 63891,
+    "scribeId": 63891,
+    "slug": "england-vs-west-indies-4th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "4th Test",
+    "floodlit": "day",
+    "startDate": "2000-08-17T00:00:00.000Z",
+    "endDate": "2000-08-18T00:00:00.000Z",
+    "startTime": "2000-08-17T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by an innings and 39 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1620,
+      "objectId": 61879,
+      "scribeId": 15675,
+      "slug": "west-indies-tour-of-england-and-scotland-2000",
+      "name": "West Indies tour of England and Scotland",
+      "longName": "West Indies tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 179,
+      "objectId": 57092,
+      "name": "Headingley",
+      "longName": "Headingley, Leeds",
+      "location": "",
+      "town": {
+        "id": 213,
+        "name": "Leeds",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "172 & 61",
+        "scoreInfo": "26.2 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "272",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 18277,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1504,
+    "id": 1504,
+    "objectId": 63890,
+    "scribeId": 63890,
+    "slug": "england-vs-west-indies-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2000-08-03T00:00:00.000Z",
+    "endDate": "2000-08-07T00:00:00.000Z",
+    "startTime": "2000-08-03T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 1620,
+      "objectId": 61879,
+      "scribeId": 15675,
+      "slug": "west-indies-tour-of-england-and-scotland-2000",
+      "name": "West Indies tour of England and Scotland",
+      "longName": "West Indies tour of England and Scotland",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "157 & 438/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "303 & 80/1",
+        "scoreInfo": "33.4 ov, target 293",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 17900,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2291,
+    "id": 2291,
+    "objectId": 64677,
+    "scribeId": 64677,
+    "slug": "pakistan-vs-england-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-10-30T00:00:00.000Z",
+    "endDate": "2000-10-30T00:00:00.000Z",
+    "startTime": "2000-10-30T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Pakistan won by 6 wickets (with 39 balls remaining)",
+    "winnerTeamId": 7,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1001,
+      "objectId": 59006,
+      "name": "Rawalpindi Cricket Stadium",
+      "longName": "Rawalpindi Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 874,
+        "name": "Rawalpindi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "158",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "161/4",
+        "scoreInfo": "43.3/50 ov, target 159",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25804,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2289,
+    "id": 2289,
+    "objectId": 64675,
+    "scribeId": 64675,
+    "slug": "pakistan-vs-england-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-10-27T00:00:00.000Z",
+    "endDate": "2000-10-27T00:00:00.000Z",
+    "startTime": "2000-10-27T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Pakistan won by 8 wickets (with 34 balls remaining)",
+    "winnerTeamId": 7,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 545,
+      "objectId": 58967,
+      "name": "Gaddafi Stadium",
+      "longName": "Gaddafi Stadium, Lahore",
+      "location": "",
+      "town": {
+        "id": 868,
+        "name": "Lahore",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "211/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "214/2",
+        "scoreInfo": "44.2/50 ov, target 212",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25676,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 2287,
+    "id": 2287,
+    "objectId": 64673,
+    "scribeId": 64673,
+    "slug": "pakistan-vs-england-1st-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2000-10-24T00:00:00.000Z",
+    "endDate": "2000-10-24T00:00:00.000Z",
+    "startTime": "2000-10-24T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 5 wickets (with 16 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 487,
+      "objectId": 58956,
+      "name": "National Stadium",
+      "longName": "National Stadium, Karachi",
+      "location": "",
+      "town": {
+        "id": 867,
+        "name": "Karachi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "304/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "306/5",
+        "scoreInfo": "47.2/50 ov, target 305",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25583,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 6130,
+    "id": 6130,
+    "objectId": 93437,
+    "scribeId": 93437,
+    "slug": "pakistan-a-vs-england-xi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 5,
+    "title": "",
+    "floodlit": "daynight",
+    "startDate": "2000-10-22T00:00:00.000Z",
+    "endDate": "2000-10-22T00:00:00.000Z",
+    "startTime": "2000-10-22T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England XI won by 10 wickets (with 122 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 487,
+      "objectId": 58956,
+      "name": "National Stadium",
+      "longName": "National Stadium, Karachi",
+      "location": "",
+      "town": {
+        "id": 867,
+        "name": "Karachi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2989,
+          "objectId": 2938,
+          "scribeId": 2938,
+          "slug": "pakistan-shaheens",
+          "name": "Pakistan A",
+          "longName": "Pakistan A",
+          "abbreviation": "PAK-A",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/154300/154385.png",
+            "caption": "Pakistan flag",
+            "credit": "Wikipedia",
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "169/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "170/0",
+        "scoreInfo": "29.4/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25480,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 6118,
+    "id": 6118,
+    "objectId": 93373,
+    "scribeId": 93373,
+    "slug": "sind-governor-s-xi-vs-england-xi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 5,
+    "title": "",
+    "floodlit": "daynight",
+    "startDate": "2000-10-20T00:00:00.000Z",
+    "endDate": "2000-10-20T00:00:00.000Z",
+    "startTime": "2000-10-20T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England XI won by 81 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 487,
+      "objectId": 58956,
+      "name": "National Stadium",
+      "longName": "National Stadium, Karachi",
+      "location": "",
+      "town": {
+        "id": 867,
+        "name": "Karachi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "323/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3155,
+          "objectId": 3104,
+          "scribeId": 3104,
+          "slug": "sind-governor-s-xi",
+          "name": "",
+          "longName": "Sind Governor's XI",
+          "abbreviation": "",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "242",
+        "scoreInfo": "46.4/50 ov, target 324",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25441,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3790,
+    "id": 3790,
+    "objectId": 66176,
+    "scribeId": 66176,
+    "slug": "england-vs-south-africa-4th-qf",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th QF",
+    "floodlit": "day",
+    "startDate": "2000-10-10T00:00:00.000Z",
+    "endDate": "2000-10-10T00:00:00.000Z",
+    "startTime": "2000-10-10T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 8 wickets (with 65 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 814,
+      "objectId": 61073,
+      "scribeId": 8081,
+      "slug": "icc-knockout-2000-01",
+      "name": "ICC KnockOut",
+      "longName": "ICC KnockOut",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 700,
+      "objectId": 58661,
+      "name": "Gymkhana Club Ground",
+      "longName": "Gymkhana Club Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "182",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "184/2",
+        "scoreInfo": "39.1/50 ov, target 183",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25135,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 3786,
+    "id": 3786,
+    "objectId": 66172,
+    "scribeId": 66172,
+    "slug": "bangladesh-vs-england-3rd-pqf",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd PQF",
+    "floodlit": "day",
+    "startDate": "2000-10-05T00:00:00.000Z",
+    "endDate": "2000-10-05T00:00:00.000Z",
+    "startTime": "2000-10-05T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 8 wickets (with 37 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 25,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 814,
+      "objectId": 61073,
+      "scribeId": 8081,
+      "slug": "icc-knockout-2000-01",
+      "name": "ICC KnockOut",
+      "longName": "ICC KnockOut",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 700,
+      "objectId": 58661,
+      "name": "Gymkhana Club Ground",
+      "longName": "Gymkhana Club Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "232/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "236/2",
+        "scoreInfo": "43.5/50 ov, target 233",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 25014,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 49092,
+    "id": 49092,
+    "objectId": 587330,
+    "scribeId": 587330,
+    "slug": "australia-vs-england",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": null,
+    "startDate": "2000-10-03T00:00:00.000Z",
+    "endDate": "2000-10-03T00:00:00.000Z",
+    "startTime": "2000-10-03T07:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match tied",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 3,
+    "liveInning": 2,
+    "series": {
+      "id": 2143,
+      "objectId": 83579,
+      "scribeId": 15623,
+      "slug": "icc-knockout-warm-up-matches-2000-01",
+      "name": "ICC KnockOut Warm-up Matches",
+      "longName": "ICC KnockOut Warm-up Matches",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 7,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1589,
+      "objectId": 58659,
+      "name": "Simba Union Ground",
+      "longName": "Simba Union Ground, Nairobi",
+      "location": "",
+      "town": {
+        "id": 780,
+        "name": "Nairobi",
+        "area": "",
+        "timezone": "Africa/Nairobi"
+      },
+      "country": {
+        "id": 26,
+        "name": "Kenya"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "236/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "236",
+        "scoreInfo": "49.4/50 ov, target 237",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1514,
+    "id": 1514,
+    "objectId": 63900,
+    "scribeId": 63900,
+    "slug": "pakistan-vs-england-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2000-11-29T00:00:00.000Z",
+    "endDate": "2000-12-03T00:00:00.000Z",
+    "startTime": "2000-11-29T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 639,
+      "objectId": 58927,
+      "name": "Iqbal Stadium",
+      "longName": "Iqbal Stadium, Faisalabad",
+      "location": "",
+      "town": {
+        "id": 863,
+        "name": "Faisalabad",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "316 & 269/3d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "342 & 125/5",
+        "scoreInfo": "57 ov, target 244",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 18819,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 6048,
+    "id": 6048,
+    "objectId": 92424,
+    "scribeId": 92424,
+    "slug": "pakistan-cricket-board-xi-vs-england-xi-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2000-11-23T00:00:00.000Z",
+    "endDate": "2000-11-25T00:00:00.000Z",
+    "startTime": "2000-11-23T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 301,
+      "objectId": 58965,
+      "name": "Bagh-e-Jinnah",
+      "longName": "Bagh-e-Jinnah, Lahore",
+      "location": "",
+      "town": {
+        "id": 868,
+        "name": "Lahore",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3038,
+          "objectId": 2987,
+          "scribeId": 2987,
+          "slug": "pakistan-cricket-board-xi",
+          "name": "PCB XI",
+          "longName": "Pakistan Cricket Board XI",
+          "abbreviation": "PCBXI",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "117 & 71/6",
+        "scoreInfo": "29 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "237/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 24658,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1513,
+    "id": 1513,
+    "objectId": 63899,
+    "scribeId": 63899,
+    "slug": "pakistan-vs-england-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2000-11-15T00:00:00.000Z",
+    "endDate": "2000-11-19T00:00:00.000Z",
+    "startTime": "2000-11-15T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 545,
+      "objectId": 58967,
+      "name": "Gaddafi Stadium",
+      "longName": "Gaddafi Stadium, Lahore",
+      "location": "",
+      "town": {
+        "id": 868,
+        "name": "Lahore",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "480/8d & 77/4d",
+        "scoreInfo": "32.1 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "401",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 24457,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 5968,
+    "id": 5968,
+    "objectId": 91702,
+    "scribeId": 91702,
+    "slug": "north-west-frontier-province-governor-s-xi-vs-england-xi-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2000-11-08T00:00:00.000Z",
+    "endDate": "2000-11-11T00:00:00.000Z",
+    "startTime": "2000-11-08T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England XI won by 8 wickets",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 879,
+      "objectId": 58988,
+      "name": "Arbab Niaz Stadium",
+      "longName": "Arbab Niaz Stadium, Peshawar",
+      "location": "",
+      "town": {
+        "id": 871,
+        "name": "Peshawar",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2981,
+          "objectId": 2930,
+          "scribeId": 2930,
+          "slug": "north-west-frontier-province-governor-s-xi",
+          "name": "",
+          "longName": "North West Frontier Province Governor's XI",
+          "abbreviation": "",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "224 & 170",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "315 & 80/2",
+        "scoreInfo": "17.2 ov, target 80",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 24116,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 5921,
+    "id": 5921,
+    "objectId": 91383,
+    "scribeId": 91383,
+    "slug": "pakistan-cricket-board-patron-s-xi-vs-england-xi-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2000-11-01T00:00:00.000Z",
+    "endDate": "2000-11-04T00:00:00.000Z",
+    "startTime": "2000-11-01T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England XI won by an innings and 27 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 3035,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1001,
+      "objectId": 59006,
+      "name": "Rawalpindi Cricket Stadium",
+      "longName": "Rawalpindi Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 874,
+        "name": "Rawalpindi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3035,
+          "objectId": 2984,
+          "scribeId": 2984,
+          "slug": "pakistan-cricket-board-patron-s-xi",
+          "name": "PCB Pat XI",
+          "longName": "Pakistan Cricket Board Patron's XI",
+          "abbreviation": "PCBXI",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": null
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "237 & 169",
+        "scoreInfo": "65.3 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England XI",
+          "longName": "England XI",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "433",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 23780,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 1515,
+    "id": 1515,
+    "objectId": 63901,
+    "scribeId": 63901,
+    "slug": "pakistan-vs-england-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2000-12-07T00:00:00.000Z",
+    "endDate": "2000-12-11T00:00:00.000Z",
+    "startTime": "2000-12-07T04:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 6 wickets",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 1500,
+      "objectId": 61759,
+      "scribeId": 15605,
+      "slug": "england-tour-of-pakistan-2000-01",
+      "name": "England tour of Pakistan",
+      "longName": "England tour of Pakistan",
+      "alternateName": null,
+      "longAlternateName": null,
+      "year": 2000,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 487,
+      "objectId": 58956,
+      "name": "National Stadium",
+      "longName": "National Stadium, Karachi",
+      "location": "",
+      "town": {
+        "id": 867,
+        "name": "Karachi",
+        "area": "",
+        "timezone": "Asia/Karachi"
+      },
+      "country": {
+        "id": 7,
+        "name": "Pakistan"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "405 & 158",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "388 & 176/4",
+        "scoreInfo": "41.3 ov, target 176",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 19250,
+    "drawOdds": null,
+    "isSuperOver": false
+  }
+]

@@ -1,0 +1,4111 @@
+[
+  {
+    "_uid": 93141,
+    "id": 93141,
+    "objectId": 1187029,
+    "scribeId": 1187029,
+    "slug": "india-vs-australia-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2020-01-19T00:00:00.000Z",
+    "endDate": "2020-01-19T00:00:00.000Z",
+    "startTime": "2020-01-19T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 7 wickets (with 15 balls remaining)",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13088,
+      "objectId": 1186995,
+      "scribeId": 19304,
+      "slug": "australia-tour-of-india-2019-20",
+      "name": "Australia tour of India",
+      "longName": "Australia tour of India",
+      "alternateName": "AUS in IND",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 683,
+      "objectId": 57897,
+      "name": "M.Chinnaswamy Stadium",
+      "longName": "M.Chinnaswamy Stadium, Bengaluru",
+      "location": "",
+      "town": {
+        "id": 549,
+        "name": "Bengaluru",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "286/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "289/3",
+        "scoreInfo": "47.3/50 ov, target 287",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 283939,
+    "reportStoryId": 283964,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93140,
+    "id": 93140,
+    "objectId": 1187028,
+    "scribeId": 1187028,
+    "slug": "india-vs-australia-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "day",
+    "startDate": "2020-01-17T00:00:00.000Z",
+    "endDate": "2020-01-17T00:00:00.000Z",
+    "startTime": "2020-01-17T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 36 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13088,
+      "objectId": 1186995,
+      "scribeId": 19304,
+      "slug": "australia-tour-of-india-2019-20",
+      "name": "Australia tour of India",
+      "longName": "Australia tour of India",
+      "alternateName": "AUS in IND",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2401,
+      "objectId": 377285,
+      "name": "Saurashtra Cricket Association Stadium",
+      "longName": "Saurashtra Cricket Association Stadium, Rajkot",
+      "location": "Khandheri",
+      "town": {
+        "id": 689,
+        "name": "Rajkot",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "340/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "304",
+        "scoreInfo": "49.1/50 ov, target 341",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 283887,
+    "reportStoryId": 283908,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93139,
+    "id": 93139,
+    "objectId": 1187027,
+    "scribeId": 1187027,
+    "slug": "india-vs-australia-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "day",
+    "startDate": "2020-01-14T00:00:00.000Z",
+    "endDate": "2020-01-14T00:00:00.000Z",
+    "startTime": "2020-01-14T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 10 wickets (with 74 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13088,
+      "objectId": 1186995,
+      "scribeId": 19304,
+      "slug": "australia-tour-of-india-2019-20",
+      "name": "Australia tour of India",
+      "longName": "Australia tour of India",
+      "alternateName": "AUS in IND",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 713,
+      "objectId": 58324,
+      "name": "Wankhede Stadium",
+      "longName": "Wankhede Stadium, Mumbai",
+      "location": "",
+      "town": {
+        "id": 665,
+        "name": "Mumbai",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "255",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "258/0",
+        "scoreInfo": "37.4/50 ov, target 256",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 283806,
+    "reportStoryId": 283829,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92942,
+    "id": 92942,
+    "objectId": 1183534,
+    "scribeId": 1183534,
+    "slug": "australia-vs-new-zealand-3rd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2020-01-03T00:00:00.000Z",
+    "endDate": "2020-01-06T00:00:00.000Z",
+    "startTime": "2020-01-02T23:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 279 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "454 & 217/2d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "256 & 136",
+        "scoreInfo": "47.5 ov, target 416",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 283566,
+    "reportStoryId": 283644,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93057,
+    "id": 93057,
+    "objectId": 1185319,
+    "scribeId": 1185319,
+    "slug": "south-africa-vs-australia-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "endDate": "2020-02-29T00:00:00.000Z",
+    "startTime": "2020-02-29T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 74 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1031,
+      "objectId": 59147,
+      "name": "Boland Park",
+      "longName": "Boland Park, Paarl",
+      "location": "",
+      "town": {
+        "id": 907,
+        "name": "Paarl",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "291/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "217",
+        "scoreInfo": "45.1/50 ov, target 292",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 284927,
+    "reportStoryId": 284949,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93056,
+    "id": 93056,
+    "objectId": 1185318,
+    "scribeId": 1185318,
+    "slug": "south-africa-vs-australia-3rd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "night",
+    "startDate": "2020-02-26T00:00:00.000Z",
+    "endDate": "2020-02-26T00:00:00.000Z",
+    "startTime": "2020-02-26T16:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 97 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 174,
+      "objectId": 59068,
+      "name": "Newlands",
+      "longName": "Newlands, Cape Town",
+      "location": "",
+      "town": {
+        "id": 893,
+        "name": "Cape Town",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "193/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "96",
+        "scoreInfo": "15.3/20 ov, target 194",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 284851,
+    "reportStoryId": 284882,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93055,
+    "id": 93055,
+    "objectId": 1185317,
+    "scribeId": 1185317,
+    "slug": "south-africa-vs-australia-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "day",
+    "startDate": "2020-02-23T00:00:00.000Z",
+    "endDate": "2020-02-23T00:00:00.000Z",
+    "startTime": "2020-02-23T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 12 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 173,
+      "objectId": 59159,
+      "name": "St George's Park",
+      "longName": "St George's Park, Port Elizabeth",
+      "location": "",
+      "town": {
+        "id": 911,
+        "name": "Port Elizabeth",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "158/4",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "146/6",
+        "scoreInfo": "20 ov, target 159",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 284778,
+    "reportStoryId": 284795,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93054,
+    "id": 93054,
+    "objectId": 1185316,
+    "scribeId": 1185316,
+    "slug": "south-africa-vs-australia-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "night",
+    "startDate": "2020-02-21T00:00:00.000Z",
+    "endDate": "2020-02-21T00:00:00.000Z",
+    "startTime": "2020-02-21T16:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 107 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 508,
+      "objectId": 59120,
+      "name": "The Wanderers Stadium",
+      "longName": "The Wanderers Stadium, Johannesburg",
+      "location": "",
+      "town": {
+        "id": 901,
+        "name": "Johannesburg",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "196/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "89",
+        "scoreInfo": "14.3/20 ov, target 197",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 284727,
+    "reportStoryId": 284756,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93165,
+    "id": 93165,
+    "objectId": 1187698,
+    "scribeId": 1187698,
+    "slug": "new-zealand-vs-australia-3rd-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "day",
+    "startDate": "2020-03-29T00:00:00.000Z",
+    "endDate": "2020-03-29T00:00:00.000Z",
+    "startTime": "2020-03-29T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13095,
+      "objectId": 1187694,
+      "scribeId": 19317,
+      "slug": "australia-in-new-zealand-2019-20",
+      "name": "Australia in New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": "NZ v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 93,
+      "objectId": 58810,
+      "name": "Hagley Oval",
+      "longName": "Hagley Oval, Christchurch",
+      "location": "",
+      "town": {
+        "id": 824,
+        "name": "Christchurch",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93164,
+    "id": 93164,
+    "objectId": 1187697,
+    "scribeId": 1187697,
+    "slug": "new-zealand-vs-australia-2nd-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2020-03-27T00:00:00.000Z",
+    "endDate": "2020-03-27T00:00:00.000Z",
+    "startTime": "2020-03-27T06:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13095,
+      "objectId": 1187694,
+      "scribeId": 19317,
+      "slug": "australia-in-new-zealand-2019-20",
+      "name": "Australia in New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": "NZ v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 283,
+      "objectId": 58792,
+      "name": "Eden Park",
+      "longName": "Eden Park, Auckland",
+      "location": "",
+      "town": {
+        "id": 822,
+        "name": "Auckland",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93163,
+    "id": 93163,
+    "objectId": 1187696,
+    "scribeId": 1187696,
+    "slug": "new-zealand-vs-australia-1st-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "day",
+    "startDate": "2020-03-24T00:00:00.000Z",
+    "endDate": "2020-03-24T00:00:00.000Z",
+    "startTime": "2020-03-24T01:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13095,
+      "objectId": 1187694,
+      "scribeId": 19317,
+      "slug": "australia-in-new-zealand-2019-20",
+      "name": "Australia in New Zealand",
+      "longName": "Australia tour of New Zealand",
+      "alternateName": "NZ v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 769,
+      "objectId": 58827,
+      "name": "University Oval",
+      "longName": "University Oval, Dunedin",
+      "location": "",
+      "town": {
+        "id": 825,
+        "name": "Dunedin",
+        "area": "",
+        "timezone": "Pacific/Auckland"
+      },
+      "country": {
+        "id": 5,
+        "name": "New Zealand"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92945,
+    "id": 92945,
+    "objectId": 1183539,
+    "scribeId": 1183539,
+    "slug": "australia-vs-new-zealand-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-03-20T00:00:00.000Z",
+    "endDate": "2020-03-20T00:00:00.000Z",
+    "startTime": "2020-03-20T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "CANCELLED",
+    "statusText": "Match cancelled without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13015,
+      "objectId": 1183522,
+      "scribeId": 19237,
+      "slug": "new-zealand-in-australia-2019-20",
+      "name": "New Zealand in Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": "NZ in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 905,
+      "objectId": 56407,
+      "name": "Bellerive Oval",
+      "longName": "Bellerive Oval, Hobart",
+      "location": "Bellerive",
+      "town": {
+        "id": 20,
+        "name": "Hobart",
+        "area": "Tasmania",
+        "timezone": "Australia/Hobart"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92944,
+    "id": 92944,
+    "objectId": 1183538,
+    "scribeId": 1183538,
+    "slug": "australia-vs-new-zealand-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "day",
+    "startDate": "2020-03-15T00:00:00.000Z",
+    "endDate": "2020-03-15T00:00:00.000Z",
+    "startTime": "2020-03-14T23:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "CANCELLED",
+    "statusText": "Match cancelled without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13015,
+      "objectId": 1183522,
+      "scribeId": 19237,
+      "slug": "new-zealand-in-australia-2019-20",
+      "name": "New Zealand in Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": "NZ in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92943,
+    "id": 92943,
+    "objectId": 1183537,
+    "scribeId": 1183537,
+    "slug": "australia-vs-new-zealand-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-03-13T00:00:00.000Z",
+    "endDate": "2020-03-13T00:00:00.000Z",
+    "startTime": "2020-03-13T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 71 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13015,
+      "objectId": 1183522,
+      "scribeId": 19237,
+      "slug": "new-zealand-in-australia-2019-20",
+      "name": "New Zealand in Australia",
+      "longName": "New Zealand tour of Australia",
+      "alternateName": "NZ in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "258/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "187",
+        "scoreInfo": "41/50 ov, target 259",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 285239,
+    "reportStoryId": 285258,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93059,
+    "id": 93059,
+    "objectId": 1185321,
+    "scribeId": 1185321,
+    "slug": "south-africa-vs-australia-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "day",
+    "startDate": "2020-03-07T00:00:00.000Z",
+    "endDate": "2020-03-07T00:00:00.000Z",
+    "startTime": "2020-03-07T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 6 wickets (with 27 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1367,
+      "objectId": 59172,
+      "name": "Senwes Park",
+      "longName": "Senwes Park, Potchefstroom",
+      "location": "",
+      "town": {
+        "id": 912,
+        "name": "Potchefstroom",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "254/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "258/4",
+        "scoreInfo": "45.3/50 ov, target 255",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 285113,
+    "reportStoryId": 285129,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 93058,
+    "id": 93058,
+    "objectId": 1185320,
+    "scribeId": 1185320,
+    "slug": "south-africa-vs-australia-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-03-04T00:00:00.000Z",
+    "endDate": "2020-03-04T00:00:00.000Z",
+    "startTime": "2020-03-04T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 6 wickets (with 9 balls remaining)",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13058,
+      "objectId": 1185293,
+      "scribeId": 19282,
+      "slug": "australia-in-sa-2019-20",
+      "name": "Australia in SA",
+      "longName": "Australia tour of South Africa",
+      "alternateName": "SA v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 949,
+      "objectId": 59042,
+      "name": "Mangaung Oval",
+      "longName": "Mangaung Oval, Bloemfontein",
+      "location": "",
+      "town": {
+        "id": 888,
+        "name": "Bloemfontein",
+        "area": "",
+        "timezone": "Africa/Johannesburg"
+      },
+      "country": {
+        "id": 3,
+        "name": "South Africa"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "271",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "274/4",
+        "scoreInfo": "48.3/50 ov, target 272",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 285020,
+    "reportStoryId": 285050,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96207,
+    "id": 96207,
+    "objectId": 1210428,
+    "scribeId": 1210428,
+    "slug": "scotland-vs-australia-only-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "Only T20I",
+    "floodlit": "day",
+    "startDate": "2020-06-29T00:00:00.000Z",
+    "endDate": "2020-06-29T00:00:00.000Z",
+    "startTime": "2020-06-29T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": true,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "CANCELLED",
+    "statusText": "Match cancelled without a ball bowled",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13719,
+      "objectId": 1230205,
+      "scribeId": 19906,
+      "slug": "scotland-v-australia-2020",
+      "name": "Scotland v Australia",
+      "longName": "Australia tour of Scotland",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 237,
+      "objectId": 59269,
+      "name": "Grange Cricket Club",
+      "longName": "Grange Cricket Club, Raeburn Place, Edinburgh",
+      "location": "",
+      "town": {
+        "id": 947,
+        "name": "Edinburgh",
+        "area": "Midlothian",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 30,
+        "name": "Scotland"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 30,
+          "objectId": 30,
+          "scribeId": 30,
+          "slug": "scotland-xi",
+          "name": "Scotland",
+          "longName": "Scotland",
+          "abbreviation": "SCOT",
+          "isCountry": true,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313150.logo.png",
+            "caption": "Scotland logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96862,
+    "id": 96862,
+    "objectId": 1219117,
+    "scribeId": 1219117,
+    "slug": "bangladesh-vs-australia-2nd-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2020-06-19T00:00:00.000Z",
+    "endDate": "2020-06-23T00:00:00.000Z",
+    "startTime": "2020-06-19T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13634,
+      "objectId": 1219114,
+      "scribeId": 19816,
+      "slug": "australia-in-bangladesh-2020",
+      "name": "Australia in Bangladesh",
+      "longName": "Australia tour of Bangladesh",
+      "alternateName": "AUS in BDESH",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2025,
+      "objectId": 236761,
+      "name": "Shere Bangla National Stadium",
+      "longName": "Shere Bangla National Stadium, Mirpur, Dhaka",
+      "location": "Mirpur",
+      "town": {
+        "id": 58,
+        "name": "Dhaka",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96861,
+    "id": 96861,
+    "objectId": 1219116,
+    "scribeId": 1219116,
+    "slug": "bangladesh-vs-australia-1st-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2020-06-11T00:00:00.000Z",
+    "endDate": "2020-06-15T00:00:00.000Z",
+    "startTime": "2020-06-11T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "POSTPONED",
+    "statusText": null,
+    "winnerTeamId": null,
+    "tossWinnerTeamId": null,
+    "tossWinnerChoice": null,
+    "resultStatus": 7,
+    "liveInning": null,
+    "series": {
+      "id": 13634,
+      "objectId": 1219114,
+      "scribeId": 19816,
+      "slug": "australia-in-bangladesh-2020",
+      "name": "Australia in Bangladesh",
+      "longName": "Australia tour of Bangladesh",
+      "alternateName": "AUS in BDESH",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1931,
+      "objectId": 56658,
+      "name": "Zahur Ahmed Chowdhury Stadium",
+      "longName": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+      "location": "",
+      "town": {
+        "id": 57,
+        "name": "Chattogram",
+        "area": "",
+        "timezone": "Asia/Dhaka"
+      },
+      "country": {
+        "id": 25,
+        "name": "Bangladesh"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": null,
+        "scoreInfo": null,
+        "inningNumbers": [],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94226,
+    "id": 94226,
+    "objectId": 1198240,
+    "scribeId": 1198240,
+    "slug": "england-vs-australia-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-09-16T00:00:00.000Z",
+    "endDate": "2020-09-16T00:00:00.000Z",
+    "startTime": "2020-09-16T12:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 3 wickets (with 2 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "302/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "305/7",
+        "scoreInfo": "49.4/50 ov, target 303",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 288129,
+    "reportStoryId": 288163,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94225,
+    "id": 94225,
+    "objectId": 1198239,
+    "scribeId": 1198239,
+    "slug": "england-vs-australia-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-09-13T00:00:00.000Z",
+    "endDate": "2020-09-13T00:00:00.000Z",
+    "startTime": "2020-09-13T12:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 24 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "231/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "207",
+        "scoreInfo": "48.4/50 ov, target 232",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 288074,
+    "reportStoryId": 288094,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94224,
+    "id": 94224,
+    "objectId": 1198238,
+    "scribeId": 1198238,
+    "slug": "england-vs-australia-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-09-11T00:00:00.000Z",
+    "endDate": "2020-09-11T00:00:00.000Z",
+    "startTime": "2020-09-11T12:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 19 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "294/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "275/9",
+        "scoreInfo": "50 ov, target 295",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 288012,
+    "reportStoryId": 288046,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94223,
+    "id": 94223,
+    "objectId": 1198237,
+    "scribeId": 1198237,
+    "slug": "england-vs-australia-3rd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "night",
+    "startDate": "2020-09-08T00:00:00.000Z",
+    "endDate": "2020-09-08T00:00:00.000Z",
+    "startTime": "2020-09-08T17:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 3 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "145/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "146/5",
+        "scoreInfo": "19.3/20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 287949,
+    "reportStoryId": 287976,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94222,
+    "id": 94222,
+    "objectId": 1198236,
+    "scribeId": 1198236,
+    "slug": "england-vs-australia-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "day",
+    "startDate": "2020-09-06T00:00:00.000Z",
+    "endDate": "2020-09-06T00:00:00.000Z",
+    "startTime": "2020-09-06T13:15:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 6 wickets (with 7 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "157/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "158/4",
+        "scoreInfo": "18.5/20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 287882,
+    "reportStoryId": 287903,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 94221,
+    "id": 94221,
+    "objectId": 1198235,
+    "scribeId": 1198235,
+    "slug": "england-vs-australia-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "night",
+    "startDate": "2020-09-04T00:00:00.000Z",
+    "endDate": "2020-09-04T00:00:00.000Z",
+    "startTime": "2020-09-04T17:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 2 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13280,
+      "objectId": 1198223,
+      "scribeId": 19496,
+      "slug": "england-v-australia-2020",
+      "name": "England v Australia",
+      "longName": "Australia tour of England",
+      "alternateName": "ENG v AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "162/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "160/6",
+        "scoreInfo": "20 ov, target 163",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 287838,
+    "reportStoryId": 287878,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96989,
+    "id": 96989,
+    "objectId": 1223956,
+    "scribeId": 1223956,
+    "slug": "australia-vs-india-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-11-29T00:00:00.000Z",
+    "endDate": "2020-11-29T00:00:00.000Z",
+    "startTime": "2020-11-29T03:40:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 51 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "389/4",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "338/9",
+        "scoreInfo": "50 ov, target 390",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 289908,
+    "reportStoryId": 289918,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96988,
+    "id": 96988,
+    "objectId": 1223955,
+    "scribeId": 1223955,
+    "slug": "australia-vs-india-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-11-27T00:00:00.000Z",
+    "endDate": "2020-11-27T00:00:00.000Z",
+    "startTime": "2020-11-27T03:40:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 66 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "374/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "308/8",
+        "scoreInfo": "50 ov, target 375",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 289855,
+    "reportStoryId": 289876,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96972,
+    "id": 96972,
+    "objectId": 1223869,
+    "scribeId": 1223869,
+    "slug": "australia-vs-india-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "daynight",
+    "startDate": "2020-12-17T00:00:00.000Z",
+    "endDate": "2020-12-19T00:00:00.000Z",
+    "startTime": "2020-12-17T04:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 8 wickets",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "244 & 36",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": {
+          "odds": "7/4",
+          "url": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307576&bs=95764839-1205258213~7/4&bet=1"
+        }
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "191 & 93/2",
+        "scoreInfo": "21 ov, target 90",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": {
+          "odds": "8/11",
+          "url": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307576&bs=95764839-1205258175~8/11&bet=1"
+        }
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 290305,
+    "reportStoryId": 290365,
+    "drawOdds": {
+      "odds": "15/2",
+      "url": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307576&bs=95764839-1205258254~15/2&bet=1"
+    },
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96987,
+    "id": 96987,
+    "objectId": 1223954,
+    "scribeId": 1223954,
+    "slug": "australia-vs-india-3rd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "night",
+    "startDate": "2020-12-08T00:00:00.000Z",
+    "endDate": "2020-12-08T00:00:00.000Z",
+    "startTime": "2020-12-08T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 12 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "186/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "174/7",
+        "scoreInfo": "20 ov, target 187",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 290093,
+    "reportStoryId": 290112,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96986,
+    "id": 96986,
+    "objectId": 1223953,
+    "scribeId": 1223953,
+    "slug": "australia-vs-india-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2020-12-06T00:00:00.000Z",
+    "endDate": "2020-12-06T00:00:00.000Z",
+    "startTime": "2020-12-06T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 6 wickets (with 2 balls remaining)",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "194/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "195/4",
+        "scoreInfo": "19.4/20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 290058,
+    "reportStoryId": 290076,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96985,
+    "id": 96985,
+    "objectId": 1223952,
+    "scribeId": 1223952,
+    "slug": "australia-vs-india-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "night",
+    "startDate": "2020-12-04T00:00:00.000Z",
+    "endDate": "2020-12-04T00:00:00.000Z",
+    "startTime": "2020-12-04T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 11 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 757,
+      "objectId": 56370,
+      "name": "Manuka Oval",
+      "longName": "Manuka Oval, Canberra",
+      "location": "Manuka",
+      "town": {
+        "id": 13,
+        "name": "Canberra",
+        "area": "Australian Capital Territory",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "161/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "150/7",
+        "scoreInfo": "20 ov, target 162",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 290007,
+    "reportStoryId": 290033,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 96990,
+    "id": 96990,
+    "objectId": 1223957,
+    "scribeId": 1223957,
+    "slug": "australia-vs-india-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2020-12-02T00:00:00.000Z",
+    "endDate": "2020-12-02T00:00:00.000Z",
+    "startTime": "2020-12-02T03:40:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 13 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13666,
+      "objectId": 1223867,
+      "scribeId": 19846,
+      "slug": "india-in-australia-2020-21",
+      "name": "India in Australia",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2020,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 757,
+      "objectId": 56370,
+      "name": "Manuka Oval",
+      "longName": "Manuka Oval, Canberra",
+      "location": "Manuka",
+      "town": {
+        "id": 13,
+        "name": "Canberra",
+        "area": "Australian Capital Territory",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "302/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "289",
+        "scoreInfo": "49.3/50 ov, target 303",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 289958,
+    "reportStoryId": 289981,
+    "drawOdds": null,
+    "isSuperOver": false
+  }
+]

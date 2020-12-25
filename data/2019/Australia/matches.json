@@ -1,0 +1,6216 @@
+[
+  {
+    "_uid": 88187,
+    "id": 88187,
+    "objectId": 1145000,
+    "scribeId": 1145000,
+    "slug": "australia-vs-sri-lanka-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "daynight",
+    "startDate": "2019-01-24T00:00:00.000Z",
+    "endDate": "2019-01-26T00:00:00.000Z",
+    "startTime": "2019-01-24T03:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 40 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 8,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 12391,
+      "objectId": 1145098,
+      "scribeId": 18692,
+      "slug": "sl-in-aus-2018-19",
+      "name": "SL in AUS",
+      "longName": "Sri Lanka tour of Australia",
+      "alternateName": "SL in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "144 & 139",
+        "scoreInfo": "50.5 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "323",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 276116,
+    "reportStoryId": 276199,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88186,
+    "id": 88186,
+    "objectId": 1144999,
+    "scribeId": 1144999,
+    "slug": "australia-vs-india-3rd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-01-18T00:00:00.000Z",
+    "endDate": "2019-01-18T00:00:00.000Z",
+    "startTime": "2019-01-18T02:20:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 7 wickets (with 4 balls remaining)",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12390,
+      "objectId": 1145097,
+      "scribeId": 18693,
+      "slug": "india-in-aus-2018-19",
+      "name": "INDIA in AUS",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "230",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "234/3",
+        "scoreInfo": "49.2/50 ov, target 231",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 275966,
+    "reportStoryId": 275995,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88185,
+    "id": 88185,
+    "objectId": 1144998,
+    "scribeId": 1144998,
+    "slug": "australia-vs-india-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-01-15T00:00:00.000Z",
+    "endDate": "2019-01-15T00:00:00.000Z",
+    "startTime": "2019-01-15T03:20:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 6 wickets (with 4 balls remaining)",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12390,
+      "objectId": 1145097,
+      "scribeId": 18693,
+      "slug": "india-in-aus-2018-19",
+      "name": "INDIA in AUS",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "298/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "299/4",
+        "scoreInfo": "49.2/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 275901,
+    "reportStoryId": 275923,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88184,
+    "id": 88184,
+    "objectId": 1144997,
+    "scribeId": 1144997,
+    "slug": "australia-vs-india-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-01-12T00:00:00.000Z",
+    "endDate": "2019-01-12T00:00:00.000Z",
+    "startTime": "2019-01-12T02:20:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 34 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12390,
+      "objectId": 1145097,
+      "scribeId": 18693,
+      "slug": "india-in-aus-2018-19",
+      "name": "INDIA in AUS",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "288/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "254/9",
+        "scoreInfo": "50 ov, target 289",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 275837,
+    "reportStoryId": 275861,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88183,
+    "id": 88183,
+    "objectId": 1144996,
+    "scribeId": 1144996,
+    "slug": "australia-vs-india-4th-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "4th Test",
+    "floodlit": "day",
+    "startDate": "2019-01-03T00:00:00.000Z",
+    "endDate": "2019-01-07T00:00:00.000Z",
+    "startTime": "2019-01-02T23:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 12390,
+      "objectId": 1145097,
+      "scribeId": 18693,
+      "slug": "india-in-aus-2018-19",
+      "name": "INDIA in AUS",
+      "longName": "India tour of Australia",
+      "alternateName": "IND in AUS",
+      "longAlternateName": "",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "622/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "(f/o) 300 & 6/0",
+        "scoreInfo": "4 ov",
+        "inningNumbers": [
+          2,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 275644,
+    "reportStoryId": 275707,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91287,
+    "id": 91287,
+    "objectId": 1168248,
+    "scribeId": 1168248,
+    "slug": "india-vs-australia-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2019-02-27T00:00:00.000Z",
+    "endDate": "2019-02-27T00:00:00.000Z",
+    "startTime": "2019-02-27T13:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 7 wickets (with 2 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 683,
+      "objectId": 57897,
+      "name": "M.Chinnaswamy Stadium",
+      "longName": "M.Chinnaswamy Stadium, Bengaluru",
+      "location": "",
+      "town": {
+        "id": 549,
+        "name": "Bengaluru",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "190/4",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "194/3",
+        "scoreInfo": "19.4/20 ov, target 191",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 276922,
+    "reportStoryId": 276953,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91286,
+    "id": 91286,
+    "objectId": 1168247,
+    "scribeId": 1168247,
+    "slug": "india-vs-australia-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "night",
+    "startDate": "2019-02-24T00:00:00.000Z",
+    "endDate": "2019-02-24T00:00:00.000Z",
+    "startTime": "2019-02-24T13:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 3 wickets",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1896,
+      "objectId": 58547,
+      "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "longName": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "location": "Pothanamallayapalam",
+      "town": {
+        "id": 737,
+        "name": "Visakhapatnam",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "126/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "127/7",
+        "scoreInfo": "20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 276859,
+    "reportStoryId": 276888,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88188,
+    "id": 88188,
+    "objectId": 1145001,
+    "scribeId": 1145001,
+    "slug": "australia-vs-sri-lanka-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2019-02-01T00:00:00.000Z",
+    "endDate": "2019-02-04T00:00:00.000Z",
+    "startTime": "2019-01-31T23:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 366 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 12391,
+      "objectId": 1145098,
+      "scribeId": 18692,
+      "slug": "sl-in-aus-2018-19",
+      "name": "SL in AUS",
+      "longName": "Sri Lanka tour of Australia",
+      "alternateName": "SL in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 757,
+      "objectId": 56370,
+      "name": "Manuka Oval",
+      "longName": "Manuka Oval, Canberra",
+      "location": "Manuka",
+      "town": {
+        "id": 13,
+        "name": "Canberra",
+        "area": "Australian Capital Territory",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "534/5d & 196/3d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "215 & 149",
+        "scoreInfo": "51 ov, target 516",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 276306,
+    "reportStoryId": 276413,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91719,
+    "id": 91719,
+    "objectId": 1174242,
+    "scribeId": 1174242,
+    "slug": "australia-vs-pakistan-5th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-31T00:00:00.000Z",
+    "endDate": "2019-03-31T00:00:00.000Z",
+    "startTime": "2019-03-31T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 20 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12614,
+      "objectId": 1157361,
+      "scribeId": 18886,
+      "slug": "australia-in-uae-2018-19",
+      "name": "Australia in UAE",
+      "longName": "Australia tour of United Arab Emirates",
+      "alternateName": "PAK v AUS",
+      "longAlternateName": "Pakistan v Australia",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2439,
+      "objectId": 392627,
+      "name": "Dubai International Cricket Stadium",
+      "longName": "Dubai International Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 978,
+        "name": "Dubai",
+        "area": "",
+        "timezone": "Asia/Dubai"
+      },
+      "country": {
+        "id": 27,
+        "name": "United Arab Emirates"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "327/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "307/7",
+        "scoreInfo": "50 ov, target 328",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277548,
+    "reportStoryId": 277560,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91718,
+    "id": 91718,
+    "objectId": 1174241,
+    "scribeId": 1174241,
+    "slug": "australia-vs-pakistan-4th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-29T00:00:00.000Z",
+    "endDate": "2019-03-29T00:00:00.000Z",
+    "startTime": "2019-03-29T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 6 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12614,
+      "objectId": 1157361,
+      "scribeId": 18886,
+      "slug": "australia-in-uae-2018-19",
+      "name": "Australia in UAE",
+      "longName": "Australia tour of United Arab Emirates",
+      "alternateName": "PAK v AUS",
+      "longAlternateName": "Pakistan v Australia",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2439,
+      "objectId": 392627,
+      "name": "Dubai International Cricket Stadium",
+      "longName": "Dubai International Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 978,
+        "name": "Dubai",
+        "area": "",
+        "timezone": "Asia/Dubai"
+      },
+      "country": {
+        "id": 27,
+        "name": "United Arab Emirates"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "277/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "271/8",
+        "scoreInfo": "50 ov, target 278",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277513,
+    "reportStoryId": 277528,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91717,
+    "id": 91717,
+    "objectId": 1174240,
+    "scribeId": 1174240,
+    "slug": "australia-vs-pakistan-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-27T00:00:00.000Z",
+    "endDate": "2019-03-27T00:00:00.000Z",
+    "startTime": "2019-03-27T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 80 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12614,
+      "objectId": 1157361,
+      "scribeId": 18886,
+      "slug": "australia-in-uae-2018-19",
+      "name": "Australia in UAE",
+      "longName": "Australia tour of United Arab Emirates",
+      "alternateName": "PAK v AUS",
+      "longAlternateName": "Pakistan v Australia",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1965,
+      "objectId": 59396,
+      "name": "Sheikh Zayed Stadium",
+      "longName": "Sheikh Zayed Stadium, Abu Dhabi",
+      "location": "",
+      "town": {
+        "id": 977,
+        "name": "Abu Dhabi",
+        "area": "",
+        "timezone": "Asia/Dubai"
+      },
+      "country": {
+        "id": 27,
+        "name": "United Arab Emirates"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "266/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "186",
+        "scoreInfo": "44.4/50 ov, target 267",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277470,
+    "reportStoryId": 277488,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91716,
+    "id": 91716,
+    "objectId": 1174239,
+    "scribeId": 1174239,
+    "slug": "australia-vs-pakistan-2nd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-24T00:00:00.000Z",
+    "endDate": "2019-03-24T00:00:00.000Z",
+    "startTime": "2019-03-24T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 8 wickets (with 13 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12614,
+      "objectId": 1157361,
+      "scribeId": 18886,
+      "slug": "australia-in-uae-2018-19",
+      "name": "Australia in UAE",
+      "longName": "Australia tour of United Arab Emirates",
+      "alternateName": "PAK v AUS",
+      "longAlternateName": "Pakistan v Australia",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 848,
+      "objectId": 59392,
+      "name": "Sharjah Cricket Stadium",
+      "longName": "Sharjah Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 976,
+        "name": "Sharjah",
+        "area": "",
+        "timezone": "Asia/Dubai"
+      },
+      "country": {
+        "id": 27,
+        "name": "United Arab Emirates"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "284/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "285/2",
+        "scoreInfo": "47.5/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277414,
+    "reportStoryId": 277430,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91715,
+    "id": 91715,
+    "objectId": 1174238,
+    "scribeId": 1174238,
+    "slug": "australia-vs-pakistan-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-22T00:00:00.000Z",
+    "endDate": "2019-03-22T00:00:00.000Z",
+    "startTime": "2019-03-22T11:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 8 wickets (with 6 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12614,
+      "objectId": 1157361,
+      "scribeId": 18886,
+      "slug": "australia-in-uae-2018-19",
+      "name": "Australia in UAE",
+      "longName": "Australia tour of United Arab Emirates",
+      "alternateName": "PAK v AUS",
+      "longAlternateName": "Pakistan v Australia",
+      "year": 2018,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 848,
+      "objectId": 59392,
+      "name": "Sharjah Cricket Stadium",
+      "longName": "Sharjah Cricket Stadium",
+      "location": "",
+      "town": {
+        "id": 976,
+        "name": "Sharjah",
+        "area": "",
+        "timezone": "Asia/Dubai"
+      },
+      "country": {
+        "id": 27,
+        "name": "United Arab Emirates"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "280/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "281/2",
+        "scoreInfo": "49/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277380,
+    "reportStoryId": 277398,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91285,
+    "id": 91285,
+    "objectId": 1168246,
+    "scribeId": 1168246,
+    "slug": "india-vs-australia-5th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "5th ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-13T00:00:00.000Z",
+    "endDate": "2019-03-13T00:00:00.000Z",
+    "startTime": "2019-03-13T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 35 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 333,
+      "objectId": 58040,
+      "name": "Arun Jaitley Stadium",
+      "longName": "Arun Jaitley Stadium, Delhi",
+      "location": "",
+      "town": {
+        "id": 584,
+        "name": "Delhi",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "272/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "237",
+        "scoreInfo": "50 ov, target 273",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277202,
+    "reportStoryId": 277228,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91284,
+    "id": 91284,
+    "objectId": 1168245,
+    "scribeId": 1168245,
+    "slug": "india-vs-australia-4th-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-10T00:00:00.000Z",
+    "endDate": "2019-03-10T00:00:00.000Z",
+    "startTime": "2019-03-10T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 4 wickets (with 13 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1015,
+      "objectId": 57991,
+      "name": "Punjab Cricket Association IS Bindra Stadium",
+      "longName": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+      "location": "Mohali",
+      "town": {
+        "id": 576,
+        "name": "Chandigarh",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "358/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "359/6",
+        "scoreInfo": "47.5/50 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277138,
+    "reportStoryId": 277154,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91283,
+    "id": 91283,
+    "objectId": 1168244,
+    "scribeId": 1168244,
+    "slug": "india-vs-australia-3rd-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "3rd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-08T00:00:00.000Z",
+    "endDate": "2019-03-08T00:00:00.000Z",
+    "startTime": "2019-03-08T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 32 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2575,
+      "objectId": 485865,
+      "name": "JSCA International Stadium Complex",
+      "longName": "JSCA International Stadium Complex, Ranchi",
+      "location": "",
+      "town": {
+        "id": 691,
+        "name": "Ranchi",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "313/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "281",
+        "scoreInfo": "48.2/50 ov, target 314",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277104,
+    "reportStoryId": 277118,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91282,
+    "id": 91282,
+    "objectId": 1168243,
+    "scribeId": 1168243,
+    "slug": "india-vs-australia-2nd-odi",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-05T00:00:00.000Z",
+    "endDate": "2019-03-05T00:00:00.000Z",
+    "startTime": "2019-03-05T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 8 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 2399,
+      "objectId": 375326,
+      "name": "Vidarbha Cricket Association Stadium",
+      "longName": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+      "location": "",
+      "town": {
+        "id": 670,
+        "name": "Nagpur",
+        "area": "",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "250",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "242",
+        "scoreInfo": "49.3/50 ov, target 251",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 277045,
+    "reportStoryId": 277068,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91281,
+    "id": 91281,
+    "objectId": 1168242,
+    "scribeId": 1168242,
+    "slug": "india-vs-australia-1st-odi",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "1st ODI",
+    "floodlit": "daynight",
+    "startDate": "2019-03-02T00:00:00.000Z",
+    "endDate": "2019-03-02T00:00:00.000Z",
+    "startTime": "2019-03-02T08:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 6 wickets (with 10 balls remaining)",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12790,
+      "objectId": 1168237,
+      "scribeId": 19059,
+      "slug": "aus-in-ind-2018-19",
+      "name": "AUS in IND",
+      "longName": "Australia tour of India",
+      "alternateName": "IND v AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1981,
+      "objectId": 58142,
+      "name": "Rajiv Gandhi International Stadium",
+      "longName": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "location": "",
+      "town": {
+        "id": 613,
+        "name": "Hyderabad",
+        "area": "Deccan",
+        "timezone": "Asia/Kolkata"
+      },
+      "country": {
+        "id": 6,
+        "name": "India"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "236/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "240/4",
+        "scoreInfo": "48.2/50 ov, target 237",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 276996,
+    "reportStoryId": 277014,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91693,
+    "id": 91693,
+    "objectId": 1173351,
+    "scribeId": 1173351,
+    "slug": "australia-vs-sri-lanka",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": "day",
+    "startDate": "2019-05-27T00:00:00.000Z",
+    "endDate": "2019-05-27T00:00:00.000Z",
+    "startTime": "2019-05-27T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 5 wickets (with 31 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 8,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12362,
+      "objectId": 1144420,
+      "scribeId": 18661,
+      "slug": "wc-warm-up-2019",
+      "name": "WC Warm-up",
+      "longName": "Sri Lanka tour of England and Scotland",
+      "alternateName": "WC Warm-up",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "239/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "241/5",
+        "scoreInfo": "44.5/50 ov, target 240",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 278734,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91689,
+    "id": 91689,
+    "objectId": 1173347,
+    "scribeId": 1173347,
+    "slug": "england-vs-australia",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": "day",
+    "startDate": "2019-05-25T00:00:00.000Z",
+    "endDate": "2019-05-25T00:00:00.000Z",
+    "startTime": "2019-05-25T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 12 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12880,
+      "objectId": 1173340,
+      "scribeId": 19134,
+      "slug": "world-cup-warm-up-2019",
+      "name": "World Cup Warm-up",
+      "longName": "ICC World Cup Warm-up Matches",
+      "alternateName": "WC Warm-up",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 7,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1184,
+      "objectId": 57312,
+      "name": "The Rose Bowl",
+      "longName": "The Rose Bowl, Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "297/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "285",
+        "scoreInfo": "49.3/50 ov, target 298",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": 278720,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92991,
+    "id": 92991,
+    "objectId": 1185141,
+    "scribeId": 1185141,
+    "slug": "australia-vs-west-indies",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 12,
+    "title": "",
+    "floodlit": "day",
+    "startDate": "2019-05-22T00:00:00.000Z",
+    "endDate": "2019-05-22T00:00:00.000Z",
+    "startTime": "2019-05-22T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "N",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 7 wickets (with 69 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12815,
+      "objectId": 1169346,
+      "scribeId": 19071,
+      "slug": "australia-in-eng-2019",
+      "name": "Australia in ENG",
+      "longName": "Australia tour of England [June 2019]",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 8,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 1214,
+      "objectId": 57313,
+      "name": "The Rose Bowl (Nursery)",
+      "longName": "The Rose Bowl (Nursery), Southampton",
+      "location": "",
+      "town": {
+        "id": 287,
+        "name": "Southampton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "229",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "231/3",
+        "scoreInfo": "38.3/50 ov, target 230",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": null,
+    "reportStoryId": null,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88131,
+    "id": 88131,
+    "objectId": 1144519,
+    "scribeId": 1144519,
+    "slug": "australia-vs-new-zealand-37th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "37th match",
+    "floodlit": "daynight",
+    "startDate": "2019-06-29T00:00:00.000Z",
+    "endDate": "2019-06-29T00:00:00.000Z",
+    "startTime": "2019-06-29T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 86 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "243/9",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "157",
+        "scoreInfo": "43.4/50 ov, target 244",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279518,
+    "reportStoryId": 279548,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88126,
+    "id": 88126,
+    "objectId": 1144514,
+    "scribeId": 1144514,
+    "slug": "england-vs-australia-32nd-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "32nd match",
+    "floodlit": "day",
+    "startDate": "2019-06-25T00:00:00.000Z",
+    "endDate": "2019-06-25T00:00:00.000Z",
+    "startTime": "2019-06-25T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 64 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "285/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "221",
+        "scoreInfo": "44.4/50 ov, target 286",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279417,
+    "reportStoryId": 279455,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88120,
+    "id": 88120,
+    "objectId": 1144508,
+    "scribeId": 1144508,
+    "slug": "australia-vs-bangladesh-26th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "26th match",
+    "floodlit": "day",
+    "startDate": "2019-06-20T00:00:00.000Z",
+    "endDate": "2019-06-20T00:00:00.000Z",
+    "startTime": "2019-06-20T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 48 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 34,
+      "objectId": 57219,
+      "name": "Trent Bridge",
+      "longName": "Trent Bridge, Nottingham",
+      "location": "",
+      "town": {
+        "id": 254,
+        "name": "Nottingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "381/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 25,
+          "objectId": 25,
+          "scribeId": 25,
+          "slug": "bangladesh",
+          "name": "Bangladesh",
+          "longName": "Bangladesh",
+          "abbreviation": "BDESH",
+          "isCountry": true,
+          "primaryColor": "#006a4e",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313145.logo.png",
+            "caption": "Bangladesh logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "333/8",
+        "scoreInfo": "50 ov, target 382",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279290,
+    "reportStoryId": 279332,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88114,
+    "id": 88114,
+    "objectId": 1144502,
+    "scribeId": 1144502,
+    "slug": "australia-vs-sri-lanka-20th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "20th match",
+    "floodlit": "day",
+    "startDate": "2019-06-15T00:00:00.000Z",
+    "endDate": "2019-06-15T00:00:00.000Z",
+    "startTime": "2019-06-15T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 87 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 8,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "334/7",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "247",
+        "scoreInfo": "45.5/50 ov, target 335",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279178,
+    "reportStoryId": 279209,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88111,
+    "id": 88111,
+    "objectId": 1144499,
+    "scribeId": 1144499,
+    "slug": "australia-vs-pakistan-17th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "17th match",
+    "floodlit": "day",
+    "startDate": "2019-06-12T00:00:00.000Z",
+    "endDate": "2019-06-12T00:00:00.000Z",
+    "startTime": "2019-06-12T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 41 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 147,
+      "objectId": 57351,
+      "name": "The Cooper Associates County Ground, Taunton",
+      "longName": "The Cooper Associates County Ground, Taunton",
+      "location": "St James Street",
+      "town": {
+        "id": 304,
+        "name": "Taunton",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "307",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "266",
+        "scoreInfo": "45.4/50 ov, target 308",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279106,
+    "reportStoryId": 279143,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88108,
+    "id": 88108,
+    "objectId": 1144496,
+    "scribeId": 1144496,
+    "slug": "australia-vs-india-14th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "14th match",
+    "floodlit": "day",
+    "startDate": "2019-06-09T00:00:00.000Z",
+    "endDate": "2019-06-09T00:00:00.000Z",
+    "startTime": "2019-06-09T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "India won by 36 runs",
+    "winnerTeamId": 6,
+    "tossWinnerTeamId": 6,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 6,
+          "objectId": 6,
+          "scribeId": 6,
+          "slug": "india",
+          "name": "India",
+          "longName": "India",
+          "abbreviation": "INDIA",
+          "isCountry": true,
+          "primaryColor": "#137dd2",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313128.logo.png",
+            "caption": "India logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "352/5",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "316",
+        "scoreInfo": "50 ov, target 353",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279039,
+    "reportStoryId": 279068,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88104,
+    "id": 88104,
+    "objectId": 1144492,
+    "scribeId": 1144492,
+    "slug": "australia-vs-west-indies-10th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "10th match",
+    "floodlit": "day",
+    "startDate": "2019-06-06T00:00:00.000Z",
+    "endDate": "2019-06-06T00:00:00.000Z",
+    "startTime": "2019-06-06T09:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 15 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 4,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 34,
+      "objectId": 57219,
+      "name": "Trent Bridge",
+      "longName": "Trent Bridge, Nottingham",
+      "location": "",
+      "town": {
+        "id": 254,
+        "name": "Nottingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "288",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 4,
+          "objectId": 4,
+          "scribeId": 4,
+          "slug": "west-indies",
+          "name": "West Indies",
+          "longName": "West Indies",
+          "abbreviation": "WI",
+          "isCountry": true,
+          "primaryColor": "#790d1a",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313126.logo.png",
+            "caption": "West Indies logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "273/9",
+        "scoreInfo": "50 ov, target 289",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 278959,
+    "reportStoryId": 279003,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88098,
+    "id": 88098,
+    "objectId": 1144486,
+    "scribeId": 1144486,
+    "slug": "afghanistan-vs-australia-4th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "4th match",
+    "floodlit": "daynight",
+    "startDate": "2019-06-01T00:00:00.000Z",
+    "endDate": "2019-06-01T00:00:00.000Z",
+    "startTime": "2019-06-01T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 7 wickets (with 91 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 40,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 176,
+      "objectId": 56831,
+      "name": "County Ground",
+      "longName": "County Ground, Bristol",
+      "location": "Bishopston",
+      "town": {
+        "id": 116,
+        "name": "Bristol",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 40,
+          "objectId": 40,
+          "scribeId": 40,
+          "slug": "afghanistan",
+          "name": "Afghanistan",
+          "longName": "Afghanistan",
+          "abbreviation": "AFG",
+          "isCountry": true,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313160.logo.png",
+            "caption": "Afghanistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "207",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "209/3",
+        "scoreInfo": "34.5/50 ov, target 208",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 278839,
+    "reportStoryId": 278870,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88141,
+    "id": 88141,
+    "objectId": 1144529,
+    "scribeId": 1144529,
+    "slug": "england-vs-australia-2nd-semi-final",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "2nd Semi-final",
+    "floodlit": "day",
+    "startDate": "2019-07-11T00:00:00.000Z",
+    "endDate": "2019-07-11T00:00:00.000Z",
+    "startTime": "2019-07-11T09:30:00.000Z",
+    "scheduleNote": "Reserve day",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 8 wickets (with 107 balls remaining)",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 164,
+      "objectId": 56788,
+      "name": "Edgbaston",
+      "longName": "Edgbaston, Birmingham",
+      "location": "",
+      "town": {
+        "id": 100,
+        "name": "Birmingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "223",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "226/2",
+        "scoreInfo": "32.1/50 ov, target 224",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279795,
+    "reportStoryId": 279831,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88139,
+    "id": 88139,
+    "objectId": 1144527,
+    "scribeId": 1144527,
+    "slug": "australia-vs-south-africa-45th-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 2,
+    "generalClassId": 5,
+    "title": "45th match",
+    "floodlit": "daynight",
+    "startDate": "2019-07-06T00:00:00.000Z",
+    "endDate": "2019-07-06T00:00:00.000Z",
+    "startTime": "2019-07-06T12:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "South Africa won by 10 runs",
+    "winnerTeamId": 3,
+    "tossWinnerTeamId": 3,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 12357,
+      "objectId": 1144415,
+      "scribeId": 8039,
+      "slug": "icc-cricket-world-cup-2019",
+      "name": "ICC Cricket World Cup",
+      "longName": "ICC Cricket World Cup",
+      "alternateName": "",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 3,
+          "objectId": 3,
+          "scribeId": 3,
+          "slug": "south-africa",
+          "name": "South Africa",
+          "longName": "South Africa",
+          "abbreviation": "SA",
+          "isCountry": true,
+          "primaryColor": "#04822B",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313125.logo.png",
+            "caption": "South Africa logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "325/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "315",
+        "scoreInfo": "49.5/50 ov, target 326",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "ODI",
+    "previewStoryId": 279679,
+    "reportStoryId": 279713,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91428,
+    "id": 91428,
+    "objectId": 1169534,
+    "scribeId": 1169534,
+    "slug": "derbyshire-vs-australians-tour-match",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2019-08-29T00:00:00.000Z",
+    "endDate": "2019-08-31T00:00:00.000Z",
+    "startTime": "2019-08-29T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australians won by an innings and 54 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 955,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 12364,
+      "objectId": 1144422,
+      "scribeId": 18659,
+      "slug": "australia-in-eng-2019",
+      "name": "Australia in ENG",
+      "longName": "Australia tour of England",
+      "alternateName": "Ashes",
+      "longAlternateName": "The Ashes",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 108,
+      "objectId": 56953,
+      "name": "County Ground",
+      "longName": "County Ground, Derby",
+      "location": "Nottingham Road",
+      "town": {
+        "id": 153,
+        "name": "Derby",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 955,
+          "objectId": 904,
+          "scribeId": 904,
+          "slug": "derbyshire",
+          "name": "Derbyshire",
+          "longName": "Derbyshire",
+          "abbreviation": "Derby",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313254.logo.png",
+            "caption": "Derbyshire logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "172 & 112",
+        "scoreInfo": "36.4 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australians",
+          "longName": "Australians",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "338/5d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 280921,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88944,
+    "id": 88944,
+    "objectId": 1152848,
+    "scribeId": 1152848,
+    "slug": "england-vs-australia-3rd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "3rd Test",
+    "floodlit": "day",
+    "startDate": "2019-08-22T00:00:00.000Z",
+    "endDate": "2019-08-25T00:00:00.000Z",
+    "startTime": "2019-08-22T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 1 wicket",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 1,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 179,
+      "objectId": 57092,
+      "name": "Headingley",
+      "longName": "Headingley, Leeds",
+      "location": "",
+      "town": {
+        "id": 213,
+        "name": "Leeds",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "179 & 246",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "67 & 362/9",
+        "scoreInfo": "125.4 ov, target 359",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 280692,
+    "reportStoryId": 280797,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88943,
+    "id": 88943,
+    "objectId": 1152847,
+    "scribeId": 1152847,
+    "slug": "england-vs-australia-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2019-08-14T00:00:00.000Z",
+    "endDate": "2019-08-18T00:00:00.000Z",
+    "startTime": "2019-08-14T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 10,
+      "objectId": 57129,
+      "name": "Lord's",
+      "longName": "Lord's, London",
+      "location": "St John's Wood Road",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "258 & 258/5d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "250 & 154/6",
+        "scoreInfo": "47.3 ov, target 267",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 280505,
+    "reportStoryId": 280614,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 91427,
+    "id": 91427,
+    "objectId": 1169533,
+    "scribeId": 1169533,
+    "slug": "worcestershire-vs-australians-tour-match",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": null,
+    "generalClassId": 4,
+    "title": "Tour Match",
+    "floodlit": "day",
+    "startDate": "2019-08-07T00:00:00.000Z",
+    "endDate": "2019-08-09T00:00:00.000Z",
+    "startTime": "2019-08-07T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Match drawn",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 1509,
+    "tossWinnerChoice": 2,
+    "resultStatus": 4,
+    "liveInning": 3,
+    "series": {
+      "id": 12364,
+      "objectId": 1144422,
+      "scribeId": 18659,
+      "slug": "australia-in-eng-2019",
+      "name": "Australia in ENG",
+      "longName": "Australia tour of England",
+      "alternateName": "Ashes",
+      "longAlternateName": "The Ashes",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 216,
+      "objectId": 57424,
+      "name": "New Road",
+      "longName": "County Ground, New Road, Worcester",
+      "location": "New Road",
+      "town": {
+        "id": 333,
+        "name": "Worcester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australians",
+          "longName": "Australians",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "266/5d & 124/2",
+        "scoreInfo": "39 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1509,
+          "objectId": 1458,
+          "scribeId": 1458,
+          "slug": "worcestershire",
+          "name": "Worcs",
+          "longName": "Worcestershire",
+          "abbreviation": "Worcs",
+          "isCountry": false,
+          "primaryColor": null,
+          "image": {
+            "url": "/db/PICTURES/CMS/313200/313280.logo.png",
+            "caption": "Worcestershire logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "201/9d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": null,
+    "reportStoryId": 280439,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88942,
+    "id": 88942,
+    "objectId": 1152846,
+    "scribeId": 1152846,
+    "slug": "england-vs-australia-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2019-08-01T00:00:00.000Z",
+    "endDate": "2019-08-05T00:00:00.000Z",
+    "startTime": "2019-08-01T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 251 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 12364,
+      "objectId": 1144422,
+      "scribeId": 18659,
+      "slug": "australia-in-eng-2019",
+      "name": "Australia in ENG",
+      "longName": "Australia tour of England",
+      "alternateName": "Ashes",
+      "longAlternateName": "The Ashes",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 164,
+      "objectId": 56788,
+      "name": "Edgbaston",
+      "longName": "Edgbaston, Birmingham",
+      "location": "",
+      "town": {
+        "id": 100,
+        "name": "Birmingham",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "284 & 487/7d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "374 & 146",
+        "scoreInfo": "52.3 ov, target 398",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 280242,
+    "reportStoryId": 280332,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88946,
+    "id": 88946,
+    "objectId": 1152850,
+    "scribeId": 1152850,
+    "slug": "england-vs-australia-5th-test",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "5th Test",
+    "floodlit": "day",
+    "startDate": "2019-09-12T00:00:00.000Z",
+    "endDate": "2019-09-15T00:00:00.000Z",
+    "startTime": "2019-09-12T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "England won by 135 runs",
+    "winnerTeamId": 1,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 45,
+      "objectId": 57127,
+      "name": "Kennington Oval",
+      "longName": "Kennington Oval, London",
+      "location": "",
+      "town": {
+        "id": 224,
+        "name": "London",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "294 & 329",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "225 & 263",
+        "scoreInfo": "77 ov, target 399",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 281182,
+    "reportStoryId": 281270,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 88945,
+    "id": 88945,
+    "objectId": 1152849,
+    "scribeId": 1152849,
+    "slug": "england-vs-australia-4th-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "4th Test",
+    "floodlit": "day",
+    "startDate": "2019-09-04T00:00:00.000Z",
+    "endDate": "2019-09-08T00:00:00.000Z",
+    "startTime": "2019-09-04T10:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 185 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 75,
+      "objectId": 57160,
+      "name": "Old Trafford",
+      "longName": "Old Trafford, Manchester",
+      "location": "Stretford",
+      "town": {
+        "id": 232,
+        "name": "Manchester",
+        "area": "",
+        "timezone": "Europe/London"
+      },
+      "country": {
+        "id": 1,
+        "name": "England"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "497/8d & 186/6d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 1,
+          "objectId": 1,
+          "scribeId": 1,
+          "slug": "england",
+          "name": "England",
+          "longName": "England",
+          "abbreviation": "ENG",
+          "isCountry": true,
+          "primaryColor": "#033051",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313114.logo.png",
+            "caption": "England logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "301 & 197",
+        "scoreInfo": "91.3 ov, target 383",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 280992,
+    "reportStoryId": 281102,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92933,
+    "id": 92933,
+    "objectId": 1183525,
+    "scribeId": 1183525,
+    "slug": "australia-vs-sri-lanka-2nd-t20i",
+    "stage": "RUNNING",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2019-10-30T00:00:00.000Z",
+    "endDate": "2019-10-30T00:00:00.000Z",
+    "startTime": "2019-10-30T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 9 wickets (with 42 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 8,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13010,
+      "objectId": 1183516,
+      "scribeId": 19242,
+      "slug": "sri-lanka-tour-of-aus-2019-20",
+      "name": "Sri Lanka tour of AUS",
+      "longName": "Sri Lanka tour of Australia",
+      "alternateName": "SL in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "117",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "118/1",
+        "scoreInfo": "13/20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282186,
+    "reportStoryId": 282205,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92932,
+    "id": 92932,
+    "objectId": 1183524,
+    "scribeId": 1183524,
+    "slug": "australia-vs-sri-lanka-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "day",
+    "startDate": "2019-10-27T00:00:00.000Z",
+    "endDate": "2019-10-27T00:00:00.000Z",
+    "startTime": "2019-10-27T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 134 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 8,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13010,
+      "objectId": 1183516,
+      "scribeId": 19242,
+      "slug": "sri-lanka-tour-of-aus-2019-20",
+      "name": "Sri Lanka tour of AUS",
+      "longName": "Sri Lanka tour of Australia",
+      "alternateName": "SL in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "233/2",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "99/9",
+        "scoreInfo": "20 ov, target 234",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282128,
+    "reportStoryId": 282142,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92939,
+    "id": 92939,
+    "objectId": 1183531,
+    "scribeId": 1183531,
+    "slug": "australia-vs-pakistan-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "daynight",
+    "startDate": "2019-11-29T00:00:00.000Z",
+    "endDate": "2019-12-02T00:00:00.000Z",
+    "startTime": "2019-11-29T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 48 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 131,
+      "objectId": 56293,
+      "name": "Adelaide Oval",
+      "longName": "Adelaide Oval",
+      "location": "North Adelaide",
+      "town": {
+        "id": 2,
+        "name": "Adelaide",
+        "area": "South Australia",
+        "timezone": "Australia/Adelaide"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "589/3d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "(f/o) 302 & 239",
+        "scoreInfo": "82 ov",
+        "inningNumbers": [
+          2,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 282861,
+    "reportStoryId": 282959,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92938,
+    "id": 92938,
+    "objectId": 1183530,
+    "scribeId": 1183530,
+    "slug": "australia-vs-pakistan-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "day",
+    "startDate": "2019-11-21T00:00:00.000Z",
+    "endDate": "2019-11-24T00:00:00.000Z",
+    "startTime": "2019-11-21T00:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by an innings and 5 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 3,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 209,
+      "objectId": 56336,
+      "name": "Brisbane Cricket Ground",
+      "longName": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+      "location": "Woolloongabba",
+      "town": {
+        "id": 8,
+        "name": "Brisbane",
+        "area": "Queensland",
+        "timezone": "Australia/Brisbane"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "240 & 335",
+        "scoreInfo": "84.2 ov",
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "580",
+        "scoreInfo": null,
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 282670,
+    "reportStoryId": 282767,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92937,
+    "id": 92937,
+    "objectId": 1183529,
+    "scribeId": 1183529,
+    "slug": "australia-vs-pakistan-3rd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "daynight",
+    "startDate": "2019-11-08T00:00:00.000Z",
+    "endDate": "2019-11-08T00:00:00.000Z",
+    "startTime": "2019-11-08T08:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 10 wickets (with 49 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13012,
+      "objectId": 1183518,
+      "scribeId": 19240,
+      "slug": "pakistan-in-australia-2019-20",
+      "name": "Pakistan in Australia",
+      "longName": "Pakistan tour of Australia",
+      "alternateName": "PAK in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 3404,
+      "objectId": 1126475,
+      "name": "Perth Stadium",
+      "longName": "Perth Stadium",
+      "location": "",
+      "town": {
+        "id": 27,
+        "name": "Perth",
+        "area": "Western Australia",
+        "timezone": "Australia/Perth"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "106/8",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "109/0",
+        "scoreInfo": "11.5/20 ov, target 107",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282373,
+    "reportStoryId": 282400,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92936,
+    "id": 92936,
+    "objectId": 1183528,
+    "scribeId": 1183528,
+    "slug": "australia-vs-pakistan-2nd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "2nd T20I",
+    "floodlit": "night",
+    "startDate": "2019-11-05T00:00:00.000Z",
+    "endDate": "2019-11-05T00:00:00.000Z",
+    "startTime": "2019-11-05T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 7 wickets (with 9 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 7,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13012,
+      "objectId": 1183518,
+      "scribeId": 19240,
+      "slug": "pakistan-in-australia-2019-20",
+      "name": "Pakistan in Australia",
+      "longName": "Pakistan tour of Australia",
+      "alternateName": "PAK in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 757,
+      "objectId": 56370,
+      "name": "Manuka Oval",
+      "longName": "Manuka Oval, Canberra",
+      "location": "Manuka",
+      "town": {
+        "id": 13,
+        "name": "Canberra",
+        "area": "Australian Capital Territory",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "150/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "151/3",
+        "scoreInfo": "18.3/20 ov",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282330,
+    "reportStoryId": 282339,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92935,
+    "id": 92935,
+    "objectId": 1183527,
+    "scribeId": 1183527,
+    "slug": "australia-vs-pakistan-1st-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "1st T20I",
+    "floodlit": "day",
+    "startDate": "2019-11-03T00:00:00.000Z",
+    "endDate": "2019-11-03T00:00:00.000Z",
+    "startTime": "2019-11-03T03:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "NO RESULT",
+    "statusText": "No result",
+    "winnerTeamId": null,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 5,
+    "liveInning": 2,
+    "series": {
+      "id": 13012,
+      "objectId": 1183518,
+      "scribeId": 19240,
+      "slug": "pakistan-in-australia-2019-20",
+      "name": "Pakistan in Australia",
+      "longName": "Pakistan tour of Australia",
+      "alternateName": "PAK in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 132,
+      "objectId": 56544,
+      "name": "Sydney Cricket Ground",
+      "longName": "Sydney Cricket Ground",
+      "location": "Moore Park",
+      "town": {
+        "id": 29,
+        "name": "Sydney",
+        "area": "New South Wales",
+        "timezone": "Australia/Sydney"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 7,
+          "objectId": 7,
+          "scribeId": 7,
+          "slug": "pakistan",
+          "name": "Pakistan",
+          "longName": "Pakistan",
+          "abbreviation": "PAK",
+          "isCountry": true,
+          "primaryColor": "#005b20",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313129.logo.png",
+            "caption": "Pakistan logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "107/5",
+        "scoreInfo": "15/15 ov",
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "41/0",
+        "scoreInfo": "3.1/15 ov, target 119",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282277,
+    "reportStoryId": 282300,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92934,
+    "id": 92934,
+    "objectId": 1183526,
+    "scribeId": 1183526,
+    "slug": "australia-vs-sri-lanka-3rd-t20i",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 3,
+    "generalClassId": 6,
+    "title": "3rd T20I",
+    "floodlit": "night",
+    "startDate": "2019-11-01T00:00:00.000Z",
+    "endDate": "2019-11-01T00:00:00.000Z",
+    "startTime": "2019-11-01T08:10:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 7 wickets (with 14 balls remaining)",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 2,
+    "series": {
+      "id": 13010,
+      "objectId": 1183516,
+      "scribeId": 19242,
+      "slug": "sri-lanka-tour-of-aus-2019-20",
+      "name": "Sri Lanka tour of AUS",
+      "longName": "Sri Lanka tour of Australia",
+      "alternateName": "SL in AUS",
+      "longAlternateName": "",
+      "year": 2019,
+      "typeId": 4,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 8,
+          "objectId": 8,
+          "scribeId": 8,
+          "slug": "sri-lanka",
+          "name": "Sri Lanka",
+          "longName": "Sri Lanka",
+          "abbreviation": "SL",
+          "isCountry": true,
+          "primaryColor": "#203d89",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313130.logo.png",
+            "caption": "Sri Lanka (and Ceylon) logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "142/6",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "145/3",
+        "scoreInfo": "17.4/20 ov, target 143",
+        "inningNumbers": [
+          2
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "SINGLE",
+    "format": "T20",
+    "previewStoryId": 282235,
+    "reportStoryId": 282257,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92941,
+    "id": 92941,
+    "objectId": 1183533,
+    "scribeId": 1183533,
+    "slug": "australia-vs-new-zealand-2nd-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "2nd Test",
+    "floodlit": "day",
+    "startDate": "2019-12-26T00:00:00.000Z",
+    "endDate": "2019-12-29T00:00:00.000Z",
+    "startTime": "2019-12-25T23:30:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 247 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 5,
+    "tossWinnerChoice": 2,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 61,
+      "objectId": 56441,
+      "name": "Melbourne Cricket Ground",
+      "longName": "Melbourne Cricket Ground",
+      "location": "Jolimont",
+      "town": {
+        "id": 25,
+        "name": "Melbourne",
+        "area": "Victoria",
+        "timezone": "Australia/Melbourne"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "467 & 168/5d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "148 & 240",
+        "scoreInfo": "71 ov, target 488",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 283449,
+    "reportStoryId": 283508,
+    "drawOdds": null,
+    "isSuperOver": false
+  },
+  {
+    "_uid": 92940,
+    "id": 92940,
+    "objectId": 1183532,
+    "scribeId": 1183532,
+    "slug": "australia-vs-new-zealand-1st-test",
+    "stage": "FINISHED",
+    "state": "POST",
+    "internationalClassId": 1,
+    "generalClassId": 4,
+    "title": "1st Test",
+    "floodlit": "daynight",
+    "startDate": "2019-12-12T00:00:00.000Z",
+    "endDate": "2019-12-15T00:00:00.000Z",
+    "startTime": "2019-12-12T05:00:00.000Z",
+    "scheduleNote": "",
+    "isCancelled": false,
+    "coverage": "Y",
+    "coverageNote": "",
+    "status": "RESULT",
+    "statusText": "Australia won by 296 runs",
+    "winnerTeamId": 2,
+    "tossWinnerTeamId": 2,
+    "tossWinnerChoice": 1,
+    "resultStatus": 1,
+    "liveInning": 4,
+    "series": {
+      "id": 13202,
+      "objectId": 1195334,
+      "scribeId": 19430,
+      "slug": "icc-world-test-championship-2019-2021",
+      "name": "ICC World Test Championship",
+      "longName": "ICC World Test Championship",
+      "alternateName": "WTC",
+      "longAlternateName": "ICC World Test Championship",
+      "year": 2019,
+      "typeId": 3,
+      "isTrophy": true
+    },
+    "ground": {
+      "id": 3404,
+      "objectId": 1126475,
+      "name": "Perth Stadium",
+      "longName": "Perth Stadium",
+      "location": "",
+      "town": {
+        "id": 27,
+        "name": "Perth",
+        "area": "Western Australia",
+        "timezone": "Australia/Perth"
+      },
+      "country": {
+        "id": 2,
+        "name": "Australia"
+      }
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 2,
+          "objectId": 2,
+          "scribeId": 2,
+          "slug": "australia",
+          "name": "Australia",
+          "longName": "Australia",
+          "abbreviation": "AUS",
+          "isCountry": true,
+          "primaryColor": "#ffdd00",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313124.logo.png",
+            "caption": "Australia logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": true,
+        "isLive": false,
+        "score": "416 & 217/9d",
+        "scoreInfo": null,
+        "inningNumbers": [
+          1,
+          3
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      },
+      {
+        "team": {
+          "id": 5,
+          "objectId": 5,
+          "scribeId": 5,
+          "slug": "new-zealand",
+          "name": "New Zealand",
+          "longName": "New Zealand",
+          "abbreviation": "NZ",
+          "isCountry": true,
+          "primaryColor": "#000000",
+          "image": {
+            "url": "/db/PICTURES/CMS/313100/313127.logo.png",
+            "caption": "New Zealand logo",
+            "credit": null,
+            "peerUrls": null
+          }
+        },
+        "isHome": false,
+        "isLive": false,
+        "score": "166 & 171",
+        "scoreInfo": "65.3 ov, target 468",
+        "inningNumbers": [
+          2,
+          4
+        ],
+        "points": null,
+        "sidePlayers": null,
+        "sideBatsmen": null,
+        "sideFielders": null,
+        "captain": null,
+        "teamOdds": null
+      }
+    ],
+    "dayType": "MULTI",
+    "format": "TEST",
+    "previewStoryId": 283145,
+    "reportStoryId": 283225,
+    "drawOdds": null,
+    "isSuperOver": false
+  }
+]
